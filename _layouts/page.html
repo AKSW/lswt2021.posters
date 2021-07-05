@@ -5,19 +5,13 @@ rdf_prefix_path: _data/prefixes.sparql
 <html lang="{{ page.language }}">
   <head>
     {% assign rootResource = site.rootResource | rdf_get %}
-    {% assign title = rootResource | rdf_property: "rdfs:label", page.language %}
-    {% assign description = rootResource | rdf_property: "rdfs:comment", page.language %}
-    {% assign logo = rootResource | rdf_property: "schema:logo" %}
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-    <link rel="icon" href="{% relative_link /images/icon.png %}" type="image/png">
-    <link rel="stylesheet" type="text/css" href="{% relative_link /dist/main.css %}" />
     <link rel="alternate" type="application/n-triples" href="{% relative_link /graph.nt %}" />
-    <title>{{ title }}</title>
+    <title>LSWT2021 Posters</title>
 
   </head>
 <body>
   {{ content }}
-  <script src="{% relative_link /dist/main.js %}" type="text/javascript"></script>
 </body>
 </html>
