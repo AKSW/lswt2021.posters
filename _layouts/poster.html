@@ -4,9 +4,9 @@ layout: page
 
 {{ page.rdf }}
 
-<h1>{{ page.rdf | "dct:title" }}</h1>
-<p><em>{{ page.rdf | "dct:creator" }}</em></p>
+<h1>{{ page.rdf | rdf_property: "dct:title" }}</h1>
+<p><em>{{ page.rdf | rdf_property: "dct:creator" }}</em></p>
 
-<p>{{ page.rdf | "dct:description" }}</p>
+<p>{{ page.rdf | rdf_property: "dct:description" }}</p>
 
-<img src="img/ulei-arndt.png">
+<img src="{{"img/ulei-arndt.png" | relativize_url}}">

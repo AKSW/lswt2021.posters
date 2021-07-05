@@ -31,6 +31,6 @@ exclude:
 jekyll_rdf:
     path: "graph.nt"
     restriction: "SELECT ?resourceUri WHERE { ?resourceUri ?p ?o . FILTER regex(str(?resourceUri), \"https://posters.lswt2021.aksw.org/\") }"
-    default: "poster.html"
+    default_template: "poster.html"
     class_template_mappings:
         "http://xmlns.com/foaf/0.1/Document" : "poster.html"
