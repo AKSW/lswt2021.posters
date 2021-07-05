@@ -1,0 +1,36 @@
+# Site settings
+title: LSWT2021 Posters
+email:
+description: ""
+baseurl: ""
+url: "https://posters.lswt2021.aksw.org"
+rootResource: "<https://posters.lswt2021.aksw.org/>"
+translations:
+  de: https://posters.lswt2021.aksw.org/
+  en: https://posters.lswt2021.aksw.org/en/
+
+# Build settings
+permalink: /:year/:month/:day/:title
+timezone: Europe/Berlin
+markdown: kramdown
+kramdown:
+  parse_block_html: true
+
+# Build settings
+#theme: minima
+plugins:
+  - jekyll-rdf
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - package.json
+  - package-lock.json
+  - webpack.config.js
+  - src
+jekyll_rdf:
+    path: "graph.nt"
+    restriction: "SELECT ?resourceUri WHERE { ?resourceUri ?p ?o . FILTER regex(str(?resourceUri), \"https://posters.lswt2021.aksw.org/\") }"
+    default: "poster.html"
+    class_template_mappings:
+        "http://xmlns.com/foaf/0.1/Document" : "poster.html"
