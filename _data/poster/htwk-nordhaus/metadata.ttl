@@ -6,4 +6,4 @@
 <htwk-nordhaus> dct:title "Zusammenhang zwischen der Anzahl der Testzentren, Anzahl der Corona-Fälle und Belegung von Intensivbetten in der Corona-Pandemie"@de, "Correlation between the number of testing centers, number of Corona cases, and occupancy of intensive care beds in the Corona pandemic"@en ;
 dct:creator "Max Nordhaus";
 dct:description "Zusammenhang zwischen der Anzahl der Testzentren, Anzahl der Corona-Fälle und Belegung von Intensivbetten in der Corona-Pandemie"@de, "Correlation between the number of testing centers, number of Corona cases, and occupancy of intensive care beds in the Corona pandemic"@en ;
-schema:provider <https://www.wikidata.org/wiki/Q1622216>
+schema:provider <https://www.wikidata.org/wiki/Q1622216> .

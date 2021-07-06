@@ -5,4 +5,4 @@
 <htwk-poetter> dct:title "Investitionen in grüne Energie der Bundesregierung Deutschland zwischen 2004 und 2020"@de, "Green energy investments by the german federal government between 2004 and 2020"@en ;
  dct:creator "Sebastian Pötter" ;
  dct:description "Vergleich der Wahlergebnisse zusammen mit der Investitionshöhe und der Anteil an nachhaltiger Energieerzeugung."@de, "Comparison of the election results together with the level of investment and the share of sustainable energy production."@en ;
- schema:provider <https://www.wikidata.org/wiki/Q1622216>
+ schema:provider <https://www.wikidata.org/wiki/Q1622216> .

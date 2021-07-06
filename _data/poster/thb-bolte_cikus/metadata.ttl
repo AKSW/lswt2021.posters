@@ -5,4 +5,4 @@
 <thb-bolte_cikus> dct:title "Semi-automatische Abfrage und Verknüpfung offener bibliografischer Daten als ergänzendes Feature eines Digitalen Modulkatalogs"@de, "Semi-automatic retrieval and linking of open bibliographicals Data as a feature of a digital module catalog"@en ;
      dct:creator "Philipp Bolte", "Marcel Cikus" ;
          dct:description "Implementierung einer Literatursuche zur halb-automatisierten Pflege des bestehenden Wissensgraphen des Digitalen Modulkatalogs an der Technischen Hochschule Brandenburg. Die Implementierung erfolgte druch Studierende im Rahmen des Moduls EKG21 auf Basis des bestehenden Forschungsprojektes zum Digitalen Modulkatalog."@de, "Implementation of a literature search for the semi-automated maintenance of the existing knowledge graph of the digital module catalog at the Technical University of Brandenburg. The implementation was carried out by students as part of the EKG21 module on the basis of the existing research project on the digital module catalog."@en ;
-         schema:provider "https://www.wikidata.org/wiki/Q1391182" ;
+         schema:provider "https://www.wikidata.org/wiki/Q1391182" .
