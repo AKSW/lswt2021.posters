@@ -1,6 +1,6 @@
-@prefix dct: <https://purl.org/dc/terms/> .
+@prefix dct: <http://purl.org/dc/terms/> .
 @prefix schema: <https://schema.org> .
-@prefix htwk: <https://htwk-leipzig.de/> .
+@prefix htwk: <http://htwk-leipzig.de/> .
 
 <htwk-kromlinger> dct:title "Zusammenhang zwischen Alleen und Verkehrsunfällen in Leipzig"@de, "Correlation between boulevards and road accidents in Leipzig"@en ;
     dct:creator "Kromlinger" ;
