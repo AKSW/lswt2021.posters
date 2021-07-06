@@ -17,6 +17,6 @@ select ?ptres ?poster ?number {
 
 <ul>
 {% for row in result %}
-<li><a href="{{ row.ptres.page_url | relativize_url }}"> #{{ row.number }} {{ row.poster | rdf_property: "dct:creator", nil, true | join: ", " }} “{{ row.poster | rdf_property: "dct:title", page.language }}”</a></li>
+<li>#{{ row.number }} {{ row.poster | rdf_property: "dct:creator", nil, true | join: ", " }} <a href="{{ row.ptres.page_url | relativize_url }}">“{{ row.poster | rdf_property: "dct:title", page.language }}”</a></li>
 {% endfor %}
 </ul>
