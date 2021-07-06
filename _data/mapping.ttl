@@ -1,0 +1,2 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+<https://posters.lswt2021.aksw.org/1> rdfs:seeAlso <https://posters.lswt2021.aksw.org/ulei-arndt> .

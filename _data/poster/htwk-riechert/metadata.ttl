@@ -1,0 +1,7 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix schema: <http://schema.org/> .
+
+<htwk-riechert> dct:title "Quit Diff"@de, "Quit Diff"@en ;
+    dct:creator "Thomas Richert" ;
+        dct:description "Kurzbescheribung des Posters … Quit Diff"@de, "Description of the poster … Quit Diff"@en ;
+        schema:provider <https://www.wikidata.org/wiki/Q154804> .
