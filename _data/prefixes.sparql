@@ -12,3 +12,4 @@ PREFIX akswpartner: <http://aksw.org/Partner/>
 PREFIX site: <http://ns.ontowiki.net/SysOnt/Site/>
 PREFIX geo: <http://www.w3.org/2003/01/geo/wgs84_pos#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX posters: <https://posters.lswt2021.aksw.org/>

@@ -3,10 +3,14 @@ layout: page
 ---
 
 {{ page.rdf }}
+{% assign poster = page.rdf | rdf_property: "rdfs:seeAlso" %}
+{% assign slug = poster | rdf_property: "posters:slug" %}
+{% assign poster_l = poster | rdf_property: "posters:slug" | prepend: "img/" | append: "_l.png" %}
+{% assign poster_s = poster | rdf_property: "posters:slug" | prepend: "img/" | append: "_s.png" %}
 
-<h1>{{ page.rdf | rdf_property: "dct:title" }}</h1>
-<p><em>{{ page.rdf | rdf_property: "dct:creator" }}</em></p>
+<h1>{{ poster | rdf_property: "dct:title" }}</h1>
+<p><em>{{ poster | rdf_property: "dct:creator" }}</em></p>
 
-<p>{{ page.rdf | rdf_property: "dct:description" }}</p>
+<p>{{ poster | rdf_property: "dct:description" }}</p>
 
-<img src="{{"img/ulei-arndt.png" | relativize_url}}">
+<a href="{{ poster_l | relativize_url}}"><img src="{{ poster_s | relativize_url }}"></a>
