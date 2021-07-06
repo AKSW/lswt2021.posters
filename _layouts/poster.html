@@ -2,7 +2,6 @@
 layout: page
 ---
 
-{{ page.rdf }}
 {% assign poster = page.rdf | rdf_property: "rdfs:seeAlso" %}
 {% assign slug = poster | rdf_property: "posters:slug" %}
 {% assign poster_l = poster | rdf_property: "posters:slug" | prepend: "img/" | append: "_l.png" %}
