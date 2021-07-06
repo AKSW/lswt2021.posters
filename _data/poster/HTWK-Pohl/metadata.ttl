@@ -1,0 +1,9 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix schema: <http://schema.org/> .
+@prefix htwk: <http://htwk-leipzig.de/> .
+
+
+<HTWK-Pohl> dct:title "Europawahlergebnisse, Durchschnittsalter und Elektrofahrzeuge"@de, "European election results, average age and electric vehicles"@en ;
+ dct:creator "Luca Pohl" ;
+ dct:description "Betrachtung ob die Europawahlergebnisse und das Durchschnittsalter der Bevölkerung einen Einfluss auf den Bestand von Elektrofahrzeugen in Deutschland haben."@de, "Consideration of whether the European election results and the average age of the population have an influence on the number of electric vehicles in Germany."@en ;
+ schema:provider <https://www.wikidata.org/wiki/Q1622216>.

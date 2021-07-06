@@ -32,7 +32,7 @@ sort -u $EXPORT > $GRAPH
 LOG="${LOG}"$( wc -l $GRAPH )"\n"
 rm $EXPORT
 
-exit 0
+#exit 0
 #echo $LOG
 
 mkdir img
