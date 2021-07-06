@@ -1,7 +1,7 @@
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix schema: <http://schema.org/> .
 
-<https://posters.lswt2021.aksw.org/ulei-arndt/> dct:title "Quit Diff"@de, "Quit Diff"@en ;
+<ulei-arndt> dct:title "Quit Diff"@de, "Quit Diff"@en ;
     dct:creator "Natanael Arndt" ;
         dct:description "Kurzbescheribung des Posters … Quit Diff"@de, "Description of the poster … Quit Diff"@en ;
         schema:provider <https://www.wikidata.org/wiki/Q154804> .
