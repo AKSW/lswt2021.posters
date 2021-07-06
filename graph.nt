@@ -1,21 +1,260 @@
 
+<https://posters.lswt2021.aksw.org/10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://posters.lswt2021.aksw.org/10> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://posters.lswt2021.aksw.org/htwk-janssen> .
+<https://posters.lswt2021.aksw.org/11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://posters.lswt2021.aksw.org/11> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://posters.lswt2021.aksw.org/htwk-kramer> .
+<https://posters.lswt2021.aksw.org/12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://posters.lswt2021.aksw.org/12> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://posters.lswt2021.aksw.org/htwk-kromlinger> .
+<https://posters.lswt2021.aksw.org/13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://posters.lswt2021.aksw.org/13> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://posters.lswt2021.aksw.org/htwk-mittmann> .
+<https://posters.lswt2021.aksw.org/14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://posters.lswt2021.aksw.org/14> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://posters.lswt2021.aksw.org/htwk-mothes> .
+<https://posters.lswt2021.aksw.org/15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://posters.lswt2021.aksw.org/15> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://posters.lswt2021.aksw.org/htwk-nordhaus> .
+<https://posters.lswt2021.aksw.org/16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://posters.lswt2021.aksw.org/16> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://posters.lswt2021.aksw.org/htwk-poetter> .
+<https://posters.lswt2021.aksw.org/17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://posters.lswt2021.aksw.org/17> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://posters.lswt2021.aksw.org/htwk-riedel> .
+<https://posters.lswt2021.aksw.org/18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://posters.lswt2021.aksw.org/18> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://posters.lswt2021.aksw.org/htwk-stolze> .
+<https://posters.lswt2021.aksw.org/19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://posters.lswt2021.aksw.org/19> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://posters.lswt2021.aksw.org/htwk-surek> .
 <https://posters.lswt2021.aksw.org/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
-<https://posters.lswt2021.aksw.org/1> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://posters.lswt2021.aksw.org/htwk-riechert> .
+<https://posters.lswt2021.aksw.org/1> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://posters.lswt2021.aksw.org/HTWK-Dorf> .
+<https://posters.lswt2021.aksw.org/20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://posters.lswt2021.aksw.org/20> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://posters.lswt2021.aksw.org/htwk-theml> .
+<https://posters.lswt2021.aksw.org/21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://posters.lswt2021.aksw.org/21> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://posters.lswt2021.aksw.org/htwk-zetzsche> .
+<https://posters.lswt2021.aksw.org/22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://posters.lswt2021.aksw.org/22> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://posters.lswt2021.aksw.org/thb-bolte_cikus> .
+<https://posters.lswt2021.aksw.org/23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://posters.lswt2021.aksw.org/23> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://posters.lswt2021.aksw.org/thb-fotsop> .
+<https://posters.lswt2021.aksw.org/24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://posters.lswt2021.aksw.org/24> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://posters.lswt2021.aksw.org/thb-hu> .
+<https://posters.lswt2021.aksw.org/25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://posters.lswt2021.aksw.org/25> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://posters.lswt2021.aksw.org/thb-schulz> .
 <https://posters.lswt2021.aksw.org/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
-<https://posters.lswt2021.aksw.org/2> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://posters.lswt2021.aksw.org/ulei-arndt> .
-<https://posters.lswt2021.aksw.org/htwk-riechert> <http://purl.org/dc/terms/creator> "Thomas Richert" .
-<https://posters.lswt2021.aksw.org/htwk-riechert> <http://purl.org/dc/terms/description> "Description of the poster \u2026 Quit Diff"@en .
-<https://posters.lswt2021.aksw.org/htwk-riechert> <http://purl.org/dc/terms/description> "Kurzbescheribung des Posters \u2026 Quit Diff"@de .
-<https://posters.lswt2021.aksw.org/htwk-riechert> <http://purl.org/dc/terms/title> "Quit Diff"@de .
-<https://posters.lswt2021.aksw.org/htwk-riechert> <http://purl.org/dc/terms/title> "Quit Diff"@en .
-<https://posters.lswt2021.aksw.org/htwk-riechert> <http://schema.org/provider> <https://www.wikidata.org/wiki/Q154804> .
-<https://posters.lswt2021.aksw.org/htwk-riechert> <https://posters.lswt2021.aksw.org/number> "1" .
-<https://posters.lswt2021.aksw.org/htwk-riechert> <https://posters.lswt2021.aksw.org/slug> "htwk-riechert" .
-<https://posters.lswt2021.aksw.org/ulei-arndt> <http://purl.org/dc/terms/creator> "Natanael Arndt" .
-<https://posters.lswt2021.aksw.org/ulei-arndt> <http://purl.org/dc/terms/description> "Description of the poster \u2026 Quit Diff"@en .
-<https://posters.lswt2021.aksw.org/ulei-arndt> <http://purl.org/dc/terms/description> "Kurzbescheribung des Posters \u2026 Quit Diff"@de .
-<https://posters.lswt2021.aksw.org/ulei-arndt> <http://purl.org/dc/terms/title> "Quit Diff"@de .
-<https://posters.lswt2021.aksw.org/ulei-arndt> <http://purl.org/dc/terms/title> "Quit Diff"@en .
-<https://posters.lswt2021.aksw.org/ulei-arndt> <http://schema.org/provider> <https://www.wikidata.org/wiki/Q154804> .
-<https://posters.lswt2021.aksw.org/ulei-arndt> <https://posters.lswt2021.aksw.org/number> "2" .
-<https://posters.lswt2021.aksw.org/ulei-arndt> <https://posters.lswt2021.aksw.org/slug> "ulei-arndt" .
+<https://posters.lswt2021.aksw.org/2> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://posters.lswt2021.aksw.org/hsa-BongartzDefee> .
+<https://posters.lswt2021.aksw.org/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://posters.lswt2021.aksw.org/3> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://posters.lswt2021.aksw.org/hsa-wahmkow_wunsch> .
+<https://posters.lswt2021.aksw.org/4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://posters.lswt2021.aksw.org/4> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://posters.lswt2021.aksw.org/htwk-Muthmann> .
+<https://posters.lswt2021.aksw.org/5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://posters.lswt2021.aksw.org/5> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://posters.lswt2021.aksw.org/htwk-bartel> .
+<https://posters.lswt2021.aksw.org/6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://posters.lswt2021.aksw.org/6> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://posters.lswt2021.aksw.org/htwk-chaly> .
+<https://posters.lswt2021.aksw.org/7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://posters.lswt2021.aksw.org/7> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://posters.lswt2021.aksw.org/htwk-diebelt> .
+<https://posters.lswt2021.aksw.org/8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://posters.lswt2021.aksw.org/8> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://posters.lswt2021.aksw.org/htwk-gierth> .
+<https://posters.lswt2021.aksw.org/9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://posters.lswt2021.aksw.org/9> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://posters.lswt2021.aksw.org/htwk-greve> .
+<https://posters.lswt2021.aksw.org/HTWK-Dorf> <http://purl.org/dc/terms/creator> "Johannes Dorf" .
+<https://posters.lswt2021.aksw.org/HTWK-Dorf> <http://purl.org/dc/terms/description> "Inwieweit wirkt sich eine vermehrte Nutzung der \u00F6ffentlichen Verkehrsmittel in Leipzig positiv auf die Feinstaubbelastung aus und welcher Zusammenhang besteht zwischen den Kenngr\u00F6\u00DFen und der lokalen Konjunktur?"@de .
+<https://posters.lswt2021.aksw.org/HTWK-Dorf> <http://purl.org/dc/terms/description> "To what extent does increased use of public transport in Leipzig have a positive effect on fine dust pollution and what is the relationship between the parameters and the local economy?"@en .
+<https://posters.lswt2021.aksw.org/HTWK-Dorf> <http://purl.org/dc/terms/title> "Abh\u00E4ngigkeit der Feinstaubbelastung in Leipzig auf die lokale Wirtschaft und \u00F6ffentliche Verkehrsmittel"@de .
+<https://posters.lswt2021.aksw.org/HTWK-Dorf> <http://purl.org/dc/terms/title> "Dependence of fine dust pollution in Leipzig on the local economy and public transport"@en .
+<https://posters.lswt2021.aksw.org/HTWK-Dorf> <http://schema.org/provider> <https://www.wikidata.org/wiki/Q1622216> .
+<https://posters.lswt2021.aksw.org/HTWK-Dorf> <https://posters.lswt2021.aksw.org/number> "1" .
+<https://posters.lswt2021.aksw.org/HTWK-Dorf> <https://posters.lswt2021.aksw.org/slug> "HTWK-Dorf" .
+<https://posters.lswt2021.aksw.org/hsa-BongartzDefee> <http://purl.org/dc/terms/creator> "Jonas Bongartz" .
+<https://posters.lswt2021.aksw.org/hsa-BongartzDefee> <http://purl.org/dc/terms/creator> "Marius Def\u00E8e" .
+<https://posters.lswt2021.aksw.org/hsa-BongartzDefee> <http://purl.org/dc/terms/description> "Mithilfe von Datens\u00E4tzen wollen wir es erm\u00F6glichen, dass Gitarrenspieler individuell aus einer Liste von Songs die Songsraussuchen k\u00F6nnen, die zum ihrem aktuellen Skilllevel passen und ihnen direkt Chord Sheets zur Verf\u00FCgung stellen."@de .
+<https://posters.lswt2021.aksw.org/hsa-BongartzDefee> <http://purl.org/dc/terms/description> "With the help of datasets we want to allow users to search for songs, which they can play with their current skill-level and provide them with the corresponding chord sheets."@en .
+<https://posters.lswt2021.aksw.org/hsa-BongartzDefee> <http://purl.org/dc/terms/title> "H\u00F6r auf zu suchen, fang an zu \u00FCben!"@de .
+<https://posters.lswt2021.aksw.org/hsa-BongartzDefee> <http://purl.org/dc/terms/title> "Stop searching, start practicing!"@en .
+<https://posters.lswt2021.aksw.org/hsa-BongartzDefee> <https://posters.lswt2021.aksw.org/number> "2" .
+<https://posters.lswt2021.aksw.org/hsa-BongartzDefee> <https://posters.lswt2021.aksw.org/slug> "hsa-BongartzDefee" .
+<https://posters.lswt2021.aksw.org/hsa-BongartzDefee> <https://schema.org/provider> <http://www.wikidata.org/entity/Q1622074> .
+<https://posters.lswt2021.aksw.org/hsa-wahmkow_wunsch> <http://purl.org/dc/terms/creator> "Jonas Wunsch" .
+<https://posters.lswt2021.aksw.org/hsa-wahmkow_wunsch> <http://purl.org/dc/terms/creator> "Tina Wahmkow" .
+<https://posters.lswt2021.aksw.org/hsa-wahmkow_wunsch> <http://purl.org/dc/terms/description> "Mit Str\u00E9amy kann man ganz einfach Auskunft dar\u00FCber erhallten, auf welchen Streaming-Plattformen der gesuchte Film mit welchen Sprachen etc. verf\u00FCgbar ist."@de .
+<https://posters.lswt2021.aksw.org/hsa-wahmkow_wunsch> <http://purl.org/dc/terms/description> "With Str\u00E9amy, you can easily find out which streaming platforms the movie you are looking for is available on and in which language(s) it is provided."@en .
+<https://posters.lswt2021.aksw.org/hsa-wahmkow_wunsch> <http://purl.org/dc/terms/title> "Str\u00E9amy, die Abhilfe gegen dein Streaming-Chaos"@de .
+<https://posters.lswt2021.aksw.org/hsa-wahmkow_wunsch> <http://purl.org/dc/terms/title> "Str\u00E9amy, the remedy against your streaming chaos"@en .
+<https://posters.lswt2021.aksw.org/hsa-wahmkow_wunsch> <http://schema.org/provider> <http://www.wikidata.org/entity/Q1622074> .
+<https://posters.lswt2021.aksw.org/hsa-wahmkow_wunsch> <https://posters.lswt2021.aksw.org/number> "3" .
+<https://posters.lswt2021.aksw.org/hsa-wahmkow_wunsch> <https://posters.lswt2021.aksw.org/slug> "hsa-wahmkow_wunsch" .
+<https://posters.lswt2021.aksw.org/htwk-Muthmann> <http://purl.org/dc/terms/creator> "Felix Muthmann" .
+<https://posters.lswt2021.aksw.org/htwk-Muthmann> <http://purl.org/dc/terms/description> "Betrachtung des Zusammenhangs der Anzahl erzielter Punkte in NFL Spielen, den Zuschauerzahlen je Spiel und dem Wetter auf Basis des Austragungsorts und des Datums"@de .
+<https://posters.lswt2021.aksw.org/htwk-Muthmann> <http://purl.org/dc/terms/description> "Consideration of the relationship between the number of points scored in NFL matches, the number of spectators per match and the weather on the basis of the match location and the date"@en .
+<https://posters.lswt2021.aksw.org/htwk-Muthmann> <http://purl.org/dc/terms/title> "Anzahl erzielter Punkte in NFL Spielen in Abh\u00E4ngigkeit von Wetter und Zuschauerzahlen"@de .
+<https://posters.lswt2021.aksw.org/htwk-Muthmann> <http://purl.org/dc/terms/title> "Number of points scored in NFL matches depending on the weather and the number of spectators"@en .
+<https://posters.lswt2021.aksw.org/htwk-Muthmann> <http://schema.org/provider> <https://www.wikidata.org/wiki/Q1622216> .
+<https://posters.lswt2021.aksw.org/htwk-Muthmann> <https://posters.lswt2021.aksw.org/number> "4" .
+<https://posters.lswt2021.aksw.org/htwk-Muthmann> <https://posters.lswt2021.aksw.org/slug> "htwk-Muthmann" .
+<https://posters.lswt2021.aksw.org/htwk-bartel> <http://purl.org/dc/terms/creator> "Wilhelm Bartel" .
+<https://posters.lswt2021.aksw.org/htwk-bartel> <http://purl.org/dc/terms/description> "Do cyclists in Leipzig prefer using green streets? Which trees are planted on highly frequented streets?"@en .
+<https://posters.lswt2021.aksw.org/htwk-bartel> <http://purl.org/dc/terms/description> "Fahren Radfahrer in Leipzig eher an gr\u00FCnen Stra\u00DFen entlang? Welche B\u00E4ume sind an vielbefahrenen Stra\u00DFen gepflanzt?"@de .
+<https://posters.lswt2021.aksw.org/htwk-bartel> <http://purl.org/dc/terms/title> "Stra\u00DFenb\u00E4ume und Radfahrten"@de .
+<https://posters.lswt2021.aksw.org/htwk-bartel> <http://purl.org/dc/terms/title> "Trees and cycling paths"@en .
+<https://posters.lswt2021.aksw.org/htwk-bartel> <http://schema.org/provider> <https://www.wikidata.org/wiki/Q1622216> .
+<https://posters.lswt2021.aksw.org/htwk-bartel> <https://posters.lswt2021.aksw.org/number> "5" .
+<https://posters.lswt2021.aksw.org/htwk-bartel> <https://posters.lswt2021.aksw.org/slug> "htwk-bartel" .
+<https://posters.lswt2021.aksw.org/htwk-chaly> <http://purl.org/dc/terms/creator> "Anton Chaly" .
+<https://posters.lswt2021.aksw.org/htwk-chaly> <http://purl.org/dc/terms/description> "Das neuartige Coronavirus breitet sich derzeit weltweit rasant aus. Eine Infektion f\u00FChrt zu Symptomen wie Fieber, Husten und Atemproblemen. Welche wirtschaftspolitischen Folgen resultieren daraus? Grade in Bezug auf die deutsche Wirtschaft?"@de .
+<https://posters.lswt2021.aksw.org/htwk-chaly> <http://purl.org/dc/terms/description> "The novel coronavirus is currently spreading rapidly around the world. Infection leads to symptoms such as fever, cough, and difficulty breathing. What are the economic policy consequences of this? Especially in relation to the German economy?"@en .
+<https://posters.lswt2021.aksw.org/htwk-chaly> <http://purl.org/dc/terms/title> "Auswirkung der Corona-Pandemie auf Wirtschaft in Deutschland"@de .
+<https://posters.lswt2021.aksw.org/htwk-chaly> <http://purl.org/dc/terms/title> "Effects of the corona pandemic on the economy in Germany"@en .
+<https://posters.lswt2021.aksw.org/htwk-chaly> <http://schema.org/provider> <https://www.wikidata.org/wiki/Q1622216> .
+<https://posters.lswt2021.aksw.org/htwk-chaly> <https://posters.lswt2021.aksw.org/number> "6" .
+<https://posters.lswt2021.aksw.org/htwk-chaly> <https://posters.lswt2021.aksw.org/slug> "htwk-chaly" .
+<https://posters.lswt2021.aksw.org/htwk-diebelt> <http://purl.org/dc/terms/creator> "Diebelt" .
+<https://posters.lswt2021.aksw.org/htwk-diebelt> <http://purl.org/dc/terms/description> "Consideration of the impact of video games on crime and violence"@en .
+<https://posters.lswt2021.aksw.org/htwk-diebelt> <http://purl.org/dc/terms/description> "Untersuchen der Auswirkungen von Computerspielen auf Gewalt und Kriminalit\u00E4t"@de .
+<https://posters.lswt2021.aksw.org/htwk-diebelt> <http://purl.org/dc/terms/title> "Auswirkung von Computerspielen auf die Kriminalit\u00E4t von Kindern und Jugendlichen (2009 - 2019)"@de .
+<https://posters.lswt2021.aksw.org/htwk-diebelt> <http://purl.org/dc/terms/title> "Impact of video games on child and teen crime"@en .
+<https://posters.lswt2021.aksw.org/htwk-diebelt> <http://schema.org/provider> <https://www.wikidata.org/wiki/Q1622216> .
+<https://posters.lswt2021.aksw.org/htwk-diebelt> <https://posters.lswt2021.aksw.org/number> "7" .
+<https://posters.lswt2021.aksw.org/htwk-diebelt> <https://posters.lswt2021.aksw.org/slug> "htwk-diebelt" .
+<https://posters.lswt2021.aksw.org/htwk-gierth> <http://purl.org/dc/terms/creator> "Gierth" .
+<https://posters.lswt2021.aksw.org/htwk-gierth> <http://purl.org/dc/terms/description> "Betrachtung der Gef\u00E4hrdung der Heilpflanzen des Jahres anhand der Einsch\u00E4tzung der Roten Liste gef\u00E4hrdeter Arten"@de .
+<https://posters.lswt2021.aksw.org/htwk-gierth> <http://purl.org/dc/terms/description> "Consideration of the threat to the medicinal plants of the year on the basis of the assessment of the Red List of endangered species"@en .
+<https://posters.lswt2021.aksw.org/htwk-gierth> <http://purl.org/dc/terms/title> "Aktuelle Gef\u00E4hrdung der Heilpflanzen des Jahres zwischen 1990 und 2021"@de .
+<https://posters.lswt2021.aksw.org/htwk-gierth> <http://purl.org/dc/terms/title> "Current threat to the medicinal plants of the year between 1990 and 2021"@en .
+<https://posters.lswt2021.aksw.org/htwk-gierth> <http://schema.org/provider> <https://www.wikidata.org/wiki/Q1622216> .
+<https://posters.lswt2021.aksw.org/htwk-gierth> <https://posters.lswt2021.aksw.org/number> "8" .
+<https://posters.lswt2021.aksw.org/htwk-gierth> <https://posters.lswt2021.aksw.org/slug> "htwk-gierth" .
+<https://posters.lswt2021.aksw.org/htwk-greve> <http://purl.org/dc/terms/creator> "Mathis Greve" .
+<https://posters.lswt2021.aksw.org/htwk-greve> <http://purl.org/dc/terms/description> "Gibt es einen Zusammenhang zwischen den durchschnittlichen Sonnenstunden pro Jahr und dem Immobilienpreis? Wo ist die Region in Deutschland, in der man die meisten Sonnenstunden hat und gleichzeitig das beste Verh\u00E4ltnis zwischen Einkommen und Immobilienpreisen herrscht? In diesem Projekt werden auf Landkreisebene Sonnenstunden pro Jahr (gemittelt auf die letzten 20 Jahre) mit Median Immobilienpreisen verglichen. Damit bei den Immobilienpreisen nicht nur Ballungszentren abgebildet werden, wird ein Verh\u00E4ltnis aus Durchschnitts-Einkommen und Immobilienpreisen gebildet. Dieses Verh\u00E4ltnis spiegelt den Anteil des Einkommens dar, der f\u00FCr Wohnkosten anf\u00E4llt.\r\n"@de .
+<https://posters.lswt2021.aksw.org/htwk-greve> <http://purl.org/dc/terms/description> "Is there a connection between the average hours of sunshine per year and the price of real estate? Where is the region in Germany that has the most sunshine hours and at the same time the best ratio between income and real estate prices? In this project, sunshine hours per year (averaged over the last 20 years) are compared with median real estate prices at the county level. To ensure that property prices do not only reflect metropolitan areas, a ratio of median income to property prices is formed. This ratio reflects the share of income that is used for housing costs."@en .
+<https://posters.lswt2021.aksw.org/htwk-greve> <http://purl.org/dc/terms/title> "Correlation between sunshine hours and real estate prices"@en .
+<https://posters.lswt2021.aksw.org/htwk-greve> <http://purl.org/dc/terms/title> "Korrealation zwischen Sonnenstunden und Immobilienpreisen"@de .
+<https://posters.lswt2021.aksw.org/htwk-greve> <http://schema.org/provider> <https://www.wikidata.org/wiki/Q1622216> .
+<https://posters.lswt2021.aksw.org/htwk-greve> <https://posters.lswt2021.aksw.org/number> "9" .
+<https://posters.lswt2021.aksw.org/htwk-greve> <https://posters.lswt2021.aksw.org/slug> "htwk-greve" .
+<https://posters.lswt2021.aksw.org/htwk-janssen> <http://purl.org/dc/terms/creator> "Mareike Jan\u00DFen" .
+<https://posters.lswt2021.aksw.org/htwk-janssen> <http://purl.org/dc/terms/description> "Do people drink more beer when the weather is nice? Will more beer be consumed when the unemployment rate rises? How is it in different regions of Germany? Are there any differences between the two years of the pandemic? The aim of this project is to investigate whether such relationships can be established."@en .
+<https://posters.lswt2021.aksw.org/htwk-janssen> <http://purl.org/dc/terms/description> "Trinken die Menschen bei sch\u00F6nerem Wetter mehr Bier? Wird bei steigenden Arbeitslosenquoten mehr Bier konsumiert? Wie verh\u00E4lt es sich in verschiedenen Regionen Deutschlands? Lassen sich Unterschiede zwischen den beiden Pandemiejahren erkennen? Durch dieses Projekt soll untersucht werden, ob derartige Zusammenh\u00E4nge hergestellt werden k\u00F6nnen."@de .
+<https://posters.lswt2021.aksw.org/htwk-janssen> <http://purl.org/dc/terms/title> "Relationship between weather, Unemployment rate and beer sales in the federal states of Germany (Comparison March 2020 and March 2021)"@en .
+<https://posters.lswt2021.aksw.org/htwk-janssen> <http://purl.org/dc/terms/title> "Zusammenhang zwischen Wetter, Arbeitslosenquote und Bierabsatz in den Bundesl\u00E4ndern Deutschlands (Vergleich M\u00E4rz 2020 und M\u00E4rz 2021)"@de .
+<https://posters.lswt2021.aksw.org/htwk-janssen> <http://schema.org/provider> <https://www.wikidata.org/wiki/Q1622216> .
+<https://posters.lswt2021.aksw.org/htwk-janssen> <https://posters.lswt2021.aksw.org/number> "10" .
+<https://posters.lswt2021.aksw.org/htwk-janssen> <https://posters.lswt2021.aksw.org/slug> "htwk-janssen" .
+<https://posters.lswt2021.aksw.org/htwk-kramer> <http://purl.org/dc/terms/creator> "Anna-Lena" .
+<https://posters.lswt2021.aksw.org/htwk-kramer> <http://purl.org/dc/terms/creator> "Kramer" .
+<https://posters.lswt2021.aksw.org/htwk-kramer> <http://purl.org/dc/terms/description> "Great successes such as the world championship title in 2007 have drawn media attention to handball. Are there any effects of the increased attention due to the greatest successes of the German men's national team visible in the annual reports of the number of members of the DHB? And do these successes and the associated celebrations have an impact on the annual value of beer consumption per capita in Germany?"@en .
+<https://posters.lswt2021.aksw.org/htwk-kramer> <http://purl.org/dc/terms/description> "Gro\u00DFe Erfolge wie der Weltmeistertitel 2007 haben die mediale Aufmerksamkeit auf den Handballsport gelenkt. Zeigen sich Auswirkungen der erh\u00F6hten Aufmerksamkeit aufgrund der gr\u00F6\u00DFten Erfolge der Deutschen Herrennationalmannschaft in den Jahresberichten der Mitgliederzahl des DHB? Und haben diese Erfolge und die damit verbundenen Feierlichkeiten einen Einfluss auf den j\u00E4hrlich ermittelten Wert des Bierverbrauchs pro Kopf in Deutschland?"@de .
+<https://posters.lswt2021.aksw.org/htwk-kramer> <http://purl.org/dc/terms/title> "Erfolge der Deutschen Herren-Handballnationalmannschaft, der Mitgliederzahl des DHB und des Bierkonsum pro Kopf"@de .
+<https://posters.lswt2021.aksw.org/htwk-kramer> <http://purl.org/dc/terms/title> "Successes of the German men's national handball team, the number of members of the DHB and beer consumption per person"@en .
+<https://posters.lswt2021.aksw.org/htwk-kramer> <http://schema.org/provider> <https://www.wikidata.org/wiki/Q1622216> .
+<https://posters.lswt2021.aksw.org/htwk-kramer> <https://posters.lswt2021.aksw.org/number> "11" .
+<https://posters.lswt2021.aksw.org/htwk-kramer> <https://posters.lswt2021.aksw.org/slug> "htwk-kramer" .
+<https://posters.lswt2021.aksw.org/htwk-kromlinger> <https://posters.lswt2021.aksw.org/number> "12" .
+<https://posters.lswt2021.aksw.org/htwk-kromlinger> <https://posters.lswt2021.aksw.org/slug> "htwk-kromlinger" .
+<https://posters.lswt2021.aksw.org/htwk-kromlinger> <https://purl.org/dc/terms/creator> "Kromlinger" .
+<https://posters.lswt2021.aksw.org/htwk-kromlinger> <https://purl.org/dc/terms/description> "Examination how trees affect road accidents."@en .
+<https://posters.lswt2021.aksw.org/htwk-kromlinger> <https://purl.org/dc/terms/description> "\u00DCberpr\u00FCfung, wie stark B\u00E4ume Verkehrsunf\u00E4lle beeinflussen."@de .
+<https://posters.lswt2021.aksw.org/htwk-kromlinger> <https://purl.org/dc/terms/title> "Correlation between boulevards and road accidents in Leipzig"@en .
+<https://posters.lswt2021.aksw.org/htwk-kromlinger> <https://purl.org/dc/terms/title> "Zusammenhang zwischen Alleen und Verkehrsunf\u00E4llen in Leipzig"@de .
+<https://posters.lswt2021.aksw.org/htwk-kromlinger> <https://schema.orgprovider> <https://www.wikidata.org/wiki/Q1622216> .
+<https://posters.lswt2021.aksw.org/htwk-mittmann> <http://purl.org/dc/terms/creator> "Fabian" .
+<https://posters.lswt2021.aksw.org/htwk-mittmann> <http://purl.org/dc/terms/creator> "Mittmann" .
+<https://posters.lswt2021.aksw.org/htwk-mittmann> <http://purl.org/dc/terms/description> "Investigation of the annual context between population, area, gross domestic product and inflation rate in states all around the world"@en .
+<https://posters.lswt2021.aksw.org/htwk-mittmann> <http://purl.org/dc/terms/description> "Untersuchung des j\u00E4hrlichen Zusammenhangs zwischen Einwohnerzahl, Fl\u00E4che, Bruttoinlandsprodukt und Inflationsrate in Staaten weltweit"@de .
+<https://posters.lswt2021.aksw.org/htwk-mittmann> <http://purl.org/dc/terms/title> "Investigation of economical developments worldwide"@en .
+<https://posters.lswt2021.aksw.org/htwk-mittmann> <http://purl.org/dc/terms/title> "Untersuchung wirtschaftlicher Entwicklungen weltweit"@de .
+<https://posters.lswt2021.aksw.org/htwk-mittmann> <http://schema.org/provider> <https://www.wikidata.org/wiki/Q1622216> .
+<https://posters.lswt2021.aksw.org/htwk-mittmann> <https://posters.lswt2021.aksw.org/number> "13" .
+<https://posters.lswt2021.aksw.org/htwk-mittmann> <https://posters.lswt2021.aksw.org/slug> "htwk-mittmann" .
+<https://posters.lswt2021.aksw.org/htwk-mothes> <http://purl.org/dc/terms/creator> "Sebastian Mothes" .
+<https://posters.lswt2021.aksw.org/htwk-mothes> <http://purl.org/dc/terms/description> "Die Impfquoten in den einzelnen Bundesl\u00E4ndern Deutschlands weichen teilweise sehr stark voneinander ab. K\u00F6nnen Zusammenh\u00E4nge zwischen Impfbereitschaft, Bildungsniveaus und Parteipr\u00E4ferenzen in den einzelnen Bundesl\u00E4ndern nachgewiesen werden?"@de .
+<https://posters.lswt2021.aksw.org/htwk-mothes> <http://purl.org/dc/terms/description> "The vaccination rates differ significantly in some of Germany's states. Can correlations between vaccination willingness, education levels, and party preferences in the individual German states be proven?"@en .
+<https://posters.lswt2021.aksw.org/htwk-mothes> <http://purl.org/dc/terms/title> "Correlation between vaccination ratio, education level, and party preference"@en .
+<https://posters.lswt2021.aksw.org/htwk-mothes> <http://purl.org/dc/terms/title> "Zusammenhang zwischen Impfquote, Bildungsniveau und Parteienpr\u00E4ferenz"@de .
+<https://posters.lswt2021.aksw.org/htwk-mothes> <http://schema.org/provider> <https://www.wikidata.org/wiki/Q1622216> .
+<https://posters.lswt2021.aksw.org/htwk-mothes> <https://posters.lswt2021.aksw.org/number> "14" .
+<https://posters.lswt2021.aksw.org/htwk-mothes> <https://posters.lswt2021.aksw.org/slug> "htwk-mothes" .
+<https://posters.lswt2021.aksw.org/htwk-nordhaus> <http://purl.org/dc/terms/creator> "Max Nordhaus" .
+<https://posters.lswt2021.aksw.org/htwk-nordhaus> <http://purl.org/dc/terms/description> "Correlation between the number of testing centers, number of Corona cases, and occupancy of intensive care beds in the Corona pandemic"@en .
+<https://posters.lswt2021.aksw.org/htwk-nordhaus> <http://purl.org/dc/terms/description> "Zusammenhang zwischen der Anzahl der Testzentren, Anzahl der Corona-F\u00E4lle und Belegung von Intensivbetten in der Corona-Pandemie"@de .
+<https://posters.lswt2021.aksw.org/htwk-nordhaus> <http://purl.org/dc/terms/title> "Correlation between the number of testing centers, number of Corona cases, and occupancy of intensive care beds in the Corona pandemic"@en .
+<https://posters.lswt2021.aksw.org/htwk-nordhaus> <http://purl.org/dc/terms/title> "Zusammenhang zwischen der Anzahl der Testzentren, Anzahl der Corona-F\u00E4lle und Belegung von Intensivbetten in der Corona-Pandemie"@de .
+<https://posters.lswt2021.aksw.org/htwk-nordhaus> <http://schema.org/provider> <https://www.wikidata.org/wiki/Q1622216> .
+<https://posters.lswt2021.aksw.org/htwk-nordhaus> <https://posters.lswt2021.aksw.org/number> "15" .
+<https://posters.lswt2021.aksw.org/htwk-nordhaus> <https://posters.lswt2021.aksw.org/slug> "htwk-nordhaus" .
+<https://posters.lswt2021.aksw.org/htwk-poetter> <http://purl.org/dc/terms/creator> "Sebastian P\u00F6tter" .
+<https://posters.lswt2021.aksw.org/htwk-poetter> <http://purl.org/dc/terms/description> "Comparison of the election results together with the level of investment and the share of sustainable energy production."@en .
+<https://posters.lswt2021.aksw.org/htwk-poetter> <http://purl.org/dc/terms/description> "Vergleich der Wahlergebnisse zusammen mit der Investitionsh\u00F6he und der Anteil an nachhaltiger Energieerzeugung."@de .
+<https://posters.lswt2021.aksw.org/htwk-poetter> <http://purl.org/dc/terms/title> "Green energy investments by the german federal government between 2004 and 2020"@en .
+<https://posters.lswt2021.aksw.org/htwk-poetter> <http://purl.org/dc/terms/title> "Investitionen in gr\u00FCne Energie der Bundesregierung Deutschland zwischen 2004 und 2020"@de .
+<https://posters.lswt2021.aksw.org/htwk-poetter> <http://schema.org/provider> <https://www.wikidata.org/wiki/Q1622216> .
+<https://posters.lswt2021.aksw.org/htwk-poetter> <https://posters.lswt2021.aksw.org/number> "16" .
+<https://posters.lswt2021.aksw.org/htwk-poetter> <https://posters.lswt2021.aksw.org/slug> "htwk-poetter" .
+<https://posters.lswt2021.aksw.org/htwk-riedel> <http://purl.org/dc/terms/creator> "Riedel" .
+<https://posters.lswt2021.aksw.org/htwk-riedel> <http://purl.org/dc/terms/description> "Ver\u00E4ndert die Corona-Pandemie im Fr\u00FChjahr 2021 das Mobilit\u00E4tsverhalten in deutschen Landkreisen gegen\u00FCber zum Fr\u00FChjahr 2019?"@de .
+<https://posters.lswt2021.aksw.org/htwk-riedel> <http://purl.org/dc/terms/description> "Will the corona pandemic change mobility behavior in German districts in spring 2021 compared to spring 2019?"@en .
+<https://posters.lswt2021.aksw.org/htwk-riedel> <http://purl.org/dc/terms/title> "Change in mobility and corona incidence in German districts"@en .
+<https://posters.lswt2021.aksw.org/htwk-riedel> <http://purl.org/dc/terms/title> "Mobilit\u00E4tsver\u00E4nderung und Corona-Inzidenz auf Landkreisebene"@de .
+<https://posters.lswt2021.aksw.org/htwk-riedel> <http://schema.org/provider> <https://www.wikidata.org/wiki/Q1622216> .
+<https://posters.lswt2021.aksw.org/htwk-riedel> <https://posters.lswt2021.aksw.org/number> "17" .
+<https://posters.lswt2021.aksw.org/htwk-riedel> <https://posters.lswt2021.aksw.org/slug> "htwk-riedel" .
+<https://posters.lswt2021.aksw.org/htwk-stolze> <http://purl.org/dc/terms/creator> "Felix" .
+<https://posters.lswt2021.aksw.org/htwk-stolze> <http://purl.org/dc/terms/creator> "Stolze" .
+<https://posters.lswt2021.aksw.org/htwk-stolze> <http://purl.org/dc/terms/description> "Betrachtung des Zusammenhangs von Wirtschaftsdaten und der Anzahl an Lobbygruppen eines Landes."@de .
+<https://posters.lswt2021.aksw.org/htwk-stolze> <http://purl.org/dc/terms/description> "Consideration of the connection between economic data and the number of lobby groups in a country."@en .
+<https://posters.lswt2021.aksw.org/htwk-stolze> <http://purl.org/dc/terms/title> "Erfolgreiches Wirtschaften und Lobbyorganisationen \u2013 Ein Zusammenhang?"@de .
+<https://posters.lswt2021.aksw.org/htwk-stolze> <http://purl.org/dc/terms/title> "Successful economy and lobby organizations - A correlation?"@en .
+<https://posters.lswt2021.aksw.org/htwk-stolze> <http://schema.org/provider> <https://www.wikidata.org/wiki/Q1622216> .
+<https://posters.lswt2021.aksw.org/htwk-stolze> <https://posters.lswt2021.aksw.org/number> "18" .
+<https://posters.lswt2021.aksw.org/htwk-stolze> <https://posters.lswt2021.aksw.org/slug> "htwk-stolze" .
+<https://posters.lswt2021.aksw.org/htwk-surek> <http://purl.org/dc/terms/creator> "Surek" .
+<https://posters.lswt2021.aksw.org/htwk-surek> <http://purl.org/dc/terms/description> "Correlation between births, women of childbearing age and storks"@en .
+<https://posters.lswt2021.aksw.org/htwk-surek> <http://purl.org/dc/terms/description> "Korrelation zwischen Geburten, Frauen im geb\u00E4rf\u00E4higen Alter un St\u00F6rchen"@de .
+<https://posters.lswt2021.aksw.org/htwk-surek> <http://purl.org/dc/terms/title> "Where do the babies come from?"@en .
+<https://posters.lswt2021.aksw.org/htwk-surek> <http://purl.org/dc/terms/title> "Wo kommen die Babys her?"@de .
+<https://posters.lswt2021.aksw.org/htwk-surek> <http://schema.org/provider> <https://www.wikidata.org/wiki/Q1622216> .
+<https://posters.lswt2021.aksw.org/htwk-surek> <https://posters.lswt2021.aksw.org/number> "19" .
+<https://posters.lswt2021.aksw.org/htwk-surek> <https://posters.lswt2021.aksw.org/slug> "htwk-surek" .
+<https://posters.lswt2021.aksw.org/htwk-theml> <http://purl.org/dc/terms/creator> "Florian Theml" .
+<https://posters.lswt2021.aksw.org/htwk-theml> <http://purl.org/dc/terms/description> "Inwiefern wird die Anzahl der Verkehrsunf\u00E4lle durch die aktuelle Coronavirus-Pandemie in Deutschland beeinflusst? Hierzu werden die monatlichen Neuinfektionen und die H\u00E4ufigkeit der Verkehrsunf\u00E4lle ins Verh\u00E4ltnis gesetzt und \u00FCberpr\u00FCft, ob diese Entwicklungen auch am Standort Leipzig zu beobachten sind."@de .
+<https://posters.lswt2021.aksw.org/htwk-theml> <http://purl.org/dc/terms/description> "To what extent is the number of traffic accidents influenced by the current coronavirus pandemic in Germany? For this purpose, the monthly new infections and the frequency of traffic accidents are compared and it is examined whether these developments can also be observed in Leipzig."@en .
+<https://posters.lswt2021.aksw.org/htwk-theml> <http://purl.org/dc/terms/title> "Einfluss der Coronavirus-Pandemie auf die Anzahl der Verkehrsunf\u00E4lle in Deutschland"@de .
+<https://posters.lswt2021.aksw.org/htwk-theml> <http://purl.org/dc/terms/title> "Influence of the coronavirus pandemic on the number of traffic accidents in Germany"@en .
+<https://posters.lswt2021.aksw.org/htwk-theml> <http://schema.org/provider> <https://www.wikidata.org/wiki/Q1622216> .
+<https://posters.lswt2021.aksw.org/htwk-theml> <https://posters.lswt2021.aksw.org/number> "20" .
+<https://posters.lswt2021.aksw.org/htwk-theml> <https://posters.lswt2021.aksw.org/slug> "htwk-theml" .
+<https://posters.lswt2021.aksw.org/htwk-zetzsche> <http://purl.org/dc/terms/creator> "Marius" .
+<https://posters.lswt2021.aksw.org/htwk-zetzsche> <http://purl.org/dc/terms/creator> "Zetzsche" .
+<https://posters.lswt2021.aksw.org/htwk-zetzsche> <http://purl.org/dc/terms/description> "How much has the corona pandemic affected the traffic situation in terms of accidents with personal injury"@en .
+<https://posters.lswt2021.aksw.org/htwk-zetzsche> <http://purl.org/dc/terms/description> "Wie stark hat sich die Corona-Pandemie auf die Verkehrslage in Bezug auf Unf\u00E4lle mit Personenschaden ausgewirkt."@de .
+<https://posters.lswt2021.aksw.org/htwk-zetzsche> <http://purl.org/dc/terms/title> "Einfluss der Corona-Pandemie auf Verkehrsunf\u00E4lle"@de .
+<https://posters.lswt2021.aksw.org/htwk-zetzsche> <http://purl.org/dc/terms/title> "Influence of the Corona-Pandemie on traffic accidents"@en .
+<https://posters.lswt2021.aksw.org/htwk-zetzsche> <http://schema.org/provider> <https://www.wikidata.org/wiki/Q1622216> .
+<https://posters.lswt2021.aksw.org/htwk-zetzsche> <https://posters.lswt2021.aksw.org/number> "21" .
+<https://posters.lswt2021.aksw.org/htwk-zetzsche> <https://posters.lswt2021.aksw.org/slug> "htwk-zetzsche" .
+<https://posters.lswt2021.aksw.org/thb-bolte_cikus> <http://purl.org/dc/terms/creator> "Marcel Cikus" .
+<https://posters.lswt2021.aksw.org/thb-bolte_cikus> <http://purl.org/dc/terms/creator> "Philipp Bolte" .
+<https://posters.lswt2021.aksw.org/thb-bolte_cikus> <http://purl.org/dc/terms/description> "Implementation of a literature search for the semi-automated maintenance of the existing knowledge graph of the digital module catalog at the Technical University of Brandenburg. The implementation was carried out by students as part of the EKG21 module on the basis of the existing research project on the digital module catalog."@en .
+<https://posters.lswt2021.aksw.org/thb-bolte_cikus> <http://purl.org/dc/terms/description> "Implementierung einer Literatursuche zur halb-automatisierten Pflege des bestehenden Wissensgraphen des Digitalen Modulkatalogs an der Technischen Hochschule Brandenburg. Die Implementierung erfolgte druch Studierende im Rahmen des Moduls EKG21 auf Basis des bestehenden Forschungsprojektes zum Digitalen Modulkatalog."@de .
+<https://posters.lswt2021.aksw.org/thb-bolte_cikus> <http://purl.org/dc/terms/title> "Semi-automatic retrieval and linking of open bibliographicals Data as a feature of a digital module catalog"@en .
+<https://posters.lswt2021.aksw.org/thb-bolte_cikus> <http://purl.org/dc/terms/title> "Semi-automatische Abfrage und Verkn\u00FCpfung offener bibliografischer Daten als erg\u00E4nzendes Feature eines Digitalen Modulkatalogs"@de .
+<https://posters.lswt2021.aksw.org/thb-bolte_cikus> <http://schema.org/provider> "https://www.wikidata.org/wiki/Q1391182" .
+<https://posters.lswt2021.aksw.org/thb-bolte_cikus> <https://posters.lswt2021.aksw.org/number> "22" .
+<https://posters.lswt2021.aksw.org/thb-bolte_cikus> <https://posters.lswt2021.aksw.org/slug> "thb-bolte_cikus" .
+<https://posters.lswt2021.aksw.org/thb-fotsop> <http://purl.org/dc/terms/creator> "Felix Sasaki" .
+<https://posters.lswt2021.aksw.org/thb-fotsop> <http://purl.org/dc/terms/creator> "Freddy Jeufack Fotsop, Mehrdad Ebrahimian, Ernst Mehlmann, Ray Man Ng, \u200BNils Kahlscheuer, Vincent Stolle, Nadine-Christine Wessel, Betta Younes" .
+<https://posters.lswt2021.aksw.org/thb-fotsop> <http://purl.org/dc/terms/description> "Mittels verschiedener Zero-Shot Klassifikationsmodelle wurden semi-strukturierte Lernmaterialien eines gro\u00DFen deutschen Verlages kategorisiert. Im Poster wird dabei insbesondere auf den Anwendungsfall, die eingesetzte Pipeline und den Vergleich der Leistung verschiedener ZSC-Modelle eingegangen."@de .
+<https://posters.lswt2021.aksw.org/thb-fotsop> <http://purl.org/dc/terms/description> "Using different zero-shot classification models, semi-structured learning materials from a large German publisher were categorised. The poster will focus on the use case, the pipeline used and the comparison of the performance of different ZSC models."@en .
+<https://posters.lswt2021.aksw.org/thb-fotsop> <http://purl.org/dc/terms/title> "Zero-Shot Classification of Learning Materials\u200B for a Large German Publisher"@en .
+<https://posters.lswt2021.aksw.org/thb-fotsop> <http://purl.org/dc/terms/title> "Zero-Shot Klassifikation von Lernmaterialien f\u00FCr einen gro\u00DFen deutschen Verlag"@de .
+<https://posters.lswt2021.aksw.org/thb-fotsop> <http://schema.org/provider> "https://www.wikidata.org/wiki/Q1391182" .
+<https://posters.lswt2021.aksw.org/thb-fotsop> <https://posters.lswt2021.aksw.org/number> "23" .
+<https://posters.lswt2021.aksw.org/thb-fotsop> <https://posters.lswt2021.aksw.org/slug> "thb-fotsop" .
+<https://posters.lswt2021.aksw.org/thb-hu> <http://purl.org/dc/terms/creator> "Lukas Teutenberg" .
+<https://posters.lswt2021.aksw.org/thb-hu> <http://purl.org/dc/terms/creator> "Wenxin Hu" .
+<https://posters.lswt2021.aksw.org/thb-hu> <http://purl.org/dc/terms/description> "Video lectures, an indispensable learning tool, play a very important role these days. eLectures@THB, a knowledge graph-based video platform, provides a possibility to make video lectures findable and accessible in a structured manner. This poster explains the data schema and the technical architecture of the developed prototype."@en .
+<https://posters.lswt2021.aksw.org/thb-hu> <http://purl.org/dc/terms/description> "Videovorlesungen, ein unverzichtbares Lerninstrument, spielen heutzutage eine sehr wichtige Rolle. eLectures@THB, eine wissensgraph-basierte Videoplattform, bietet deshalb eine M\u00F6glcihkeit, diese VideoVorlesungen in einer strukturierten Weise \u00FCbergreifend auffindbar und zug\u00E4nglich zu machen. Im Poster werden das Datenschema sowie die technische Architektur des entwickelten Prototyps erkl\u00E4rt."@de .
+<https://posters.lswt2021.aksw.org/thb-hu> <http://purl.org/dc/terms/title> "Knowledge Graph based Video Platform eLectures@THB"@en .
+<https://posters.lswt2021.aksw.org/thb-hu> <http://purl.org/dc/terms/title> "Wissensgraph-basierte Videoplattform eLectures@THB"@de .
+<https://posters.lswt2021.aksw.org/thb-hu> <http://schema.org/provider> <https://www.wikidata.org/wiki/Q1391182> .
+<https://posters.lswt2021.aksw.org/thb-hu> <https://posters.lswt2021.aksw.org/number> "24" .
+<https://posters.lswt2021.aksw.org/thb-hu> <https://posters.lswt2021.aksw.org/slug> "thb-hu" .
+<https://posters.lswt2021.aksw.org/thb-schulz> <http://purl.org/dc/terms/creator> "Schulz" .
+<https://posters.lswt2021.aksw.org/thb-schulz> <http://purl.org/dc/terms/description> "Kurze Einf\u00FChrung in das Thema Thesaurus mit anschlie\u00DFenderverkn\u00FCpfung zu dem Thema IT-Konzepte"@de .
+<https://posters.lswt2021.aksw.org/thb-schulz> <http://purl.org/dc/terms/description> "Short introduction to the topic of thesaurus followed by a link to the topic of IT concepts."@en .
+<https://posters.lswt2021.aksw.org/thb-schulz> <http://purl.org/dc/terms/title> "Thesaurus approach for IT concepts"@en .
+<https://posters.lswt2021.aksw.org/thb-schulz> <http://purl.org/dc/terms/title> "Thesaurus-Ansatz f\u00FCr IT-Konzepte"@de .
+<https://posters.lswt2021.aksw.org/thb-schulz> <http://schema.org/provider> <https://www.wikidata.org/wiki/Q1391182> .
+<https://posters.lswt2021.aksw.org/thb-schulz> <https://posters.lswt2021.aksw.org/number> "25" .
+<https://posters.lswt2021.aksw.org/thb-schulz> <https://posters.lswt2021.aksw.org/slug> "thb-schulz" .
