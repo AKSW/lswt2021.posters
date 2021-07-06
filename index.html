@@ -5,8 +5,8 @@ layout: page
 {% capture query %}
 select ?ptres ?poster ?number {
   ?ptres a foaf:Document ;
-    rdfs:seeAlso ?poster .
-  ?poster posters:number ?number .
+    rdfs:seeAlso ?poster ;
+    posters:number ?number .
 } order by ?number
 {% endcapture %}
 
