@@ -119,6 +119,12 @@
 <https://posters.lswt2021.aksw.org/htwk-greve> <http://schema.org/provider> <https://www.wikidata.org/wiki/Q1622216> .
 <https://posters.lswt2021.aksw.org/htwk-greve> <https://posters.lswt2021.aksw.org/number> "9" .
 <https://posters.lswt2021.aksw.org/htwk-greve> <https://posters.lswt2021.aksw.org/slug> "htwk-greve" .
+<https://posters.lswt2021.aksw.org/htwk-janssen> <http://purl.org/dc/terms/creator> "Mareike Jan\u00DFen" .
+<https://posters.lswt2021.aksw.org/htwk-janssen> <http://purl.org/dc/terms/description> "Do people drink more beer when the weather is nice? Will more beer be consumed when the unemployment rate rises? How is it in different regions of Germany? Are there any differences between the two years of the pandemic? The aim of this project is to investigate whether such relationships can be established."@en .
+<https://posters.lswt2021.aksw.org/htwk-janssen> <http://purl.org/dc/terms/description> "Trinken die Menschen bei sch\u00F6nerem Wetter mehr Bier? Wird bei steigenden Arbeitslosenquoten mehr Bier konsumiert? Wie verh\u00E4lt es sich in verschiedenen Regionen Deutschlands? Lassen sich Unterschiede zwischen den beiden Pandemiejahren erkennen? Durch dieses Projekt soll untersucht werden, ob derartige Zusammenh\u00E4nge hergestellt werden k\u00F6nnen."@de .
+<https://posters.lswt2021.aksw.org/htwk-janssen> <http://purl.org/dc/terms/title> "Relationship between weather, Unemployment rate and beer sales in the federal states of Germany (Comparison March 2020 and March 2021)"@en .
+<https://posters.lswt2021.aksw.org/htwk-janssen> <http://purl.org/dc/terms/title> "Zusammenhang zwischen Wetter, Arbeitslosenquote und Bierabsatz in den Bundesl\u00E4ndern Deutschlands (Vergleich M\u00E4rz 2020 und M\u00E4rz 2021)"@de .
+<https://posters.lswt2021.aksw.org/htwk-janssen> <http://schema.org/provider> <https://www.wikidata.org/wiki/Q1622216> .
 <https://posters.lswt2021.aksw.org/htwk-janssen> <https://posters.lswt2021.aksw.org/number> "10" .
 <https://posters.lswt2021.aksw.org/htwk-janssen> <https://posters.lswt2021.aksw.org/slug> "htwk-janssen" .
 <https://posters.lswt2021.aksw.org/htwk-kramer> <http://purl.org/dc/terms/creator> "Anna-Lena" .
@@ -212,6 +218,12 @@
 <https://posters.lswt2021.aksw.org/htwk-surek> <http://schema.org/provider> <https://www.wikidata.org/wiki/Q1622216> .
 <https://posters.lswt2021.aksw.org/htwk-surek> <https://posters.lswt2021.aksw.org/number> "20" .
 <https://posters.lswt2021.aksw.org/htwk-surek> <https://posters.lswt2021.aksw.org/slug> "htwk-surek" .
+<https://posters.lswt2021.aksw.org/htwk-theml> <http://purl.org/dc/terms/creator> "Florian Theml" .
+<https://posters.lswt2021.aksw.org/htwk-theml> <http://purl.org/dc/terms/description> "Inwiefern wird die Anzahl der Verkehrsunf\u00E4lle durch die aktuelle Coronavirus-Pandemie in Deutschland beeinflusst? Hierzu werden die monatlichen Neuinfektionen und die H\u00E4ufigkeit der Verkehrsunf\u00E4lle ins Verh\u00E4ltnis gesetzt und \u00FCberpr\u00FCft, ob diese Entwicklungen auch am Standort Leipzig zu beobachten sind."@de .
+<https://posters.lswt2021.aksw.org/htwk-theml> <http://purl.org/dc/terms/description> "To what extent is the number of traffic accidents influenced by the current coronavirus pandemic in Germany? For this purpose, the monthly new infections and the frequency of traffic accidents are compared and it is examined whether these developments can also be observed in Leipzig."@en .
+<https://posters.lswt2021.aksw.org/htwk-theml> <http://purl.org/dc/terms/title> "Einfluss der Coronavirus-Pandemie auf die Anzahl der Verkehrsunf\u00E4lle in Deutschland"@de .
+<https://posters.lswt2021.aksw.org/htwk-theml> <http://purl.org/dc/terms/title> "Influence of the coronavirus pandemic on the number of traffic accidents in Germany"@en .
+<https://posters.lswt2021.aksw.org/htwk-theml> <http://schema.org/provider> <https://www.wikidata.org/wiki/Q1622216> .
 <https://posters.lswt2021.aksw.org/htwk-theml> <https://posters.lswt2021.aksw.org/number> "21" .
 <https://posters.lswt2021.aksw.org/htwk-theml> <https://posters.lswt2021.aksw.org/slug> "htwk-theml" .
 <https://posters.lswt2021.aksw.org/htwk-zetzsche> <http://purl.org/dc/terms/creator> "Marius" .
