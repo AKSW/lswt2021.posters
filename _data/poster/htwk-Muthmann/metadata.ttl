@@ -1,10 +1,10 @@
-@prefix dct: http://purl.org/dc/terms/ .
+@prefix dct: <http://purl.org/dc/terms/> .
 
-@prefix schema: http://schema.org/ .
+@prefix schema: <http://schema.org/> .
 
 @prefix htwk: <http://htwk-leipzig.de/> .
 
-htwk:muthmann dct:title "Anzahl erzielter Punkte in NFL Spielen in Abhängigkeit von Wetter und Zuschauerzahlen"@de, "Number of points scored in NFL matches depending on the weather and the number of spectators"@en ;
+<htwk-Muthmann> dct:title "Anzahl erzielter Punkte in NFL Spielen in Abhängigkeit von Wetter und Zuschauerzahlen"@de, "Number of points scored in NFL matches depending on the weather and the number of spectators"@en ;
  dct:creator "Felix Muthmann" ;
  dct:description "Betrachtung des Zusammenhangs der Anzahl erzielter Punkte in NFL Spielen, den Zuschauerzahlen je Spiel und dem Wetter auf Basis des Austragungsorts und des Datums"@de, "Consideration of the relationship between the number of points scored in NFL matches, the number of spectators per match and the weather on the basis of the match location and the date"@en ;
- schema:provider https://www.wikidata.org/wiki/Q1622216
+ schema:provider <https://www.wikidata.org/wiki/Q1622216>

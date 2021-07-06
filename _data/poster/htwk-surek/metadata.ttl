@@ -3,7 +3,7 @@
 @prefix htwk: <http://htwk-leipzig.de/> .
 
 
-htwk:surek dct:title "Wo kommen die Babys her?"@de, "Where do the babies come from?"@en  ;
+<htwk-surek> dct:title "Wo kommen die Babys her?"@de, "Where do the babies come from?"@en  ;
  dct:creator "Surek";
  dct:description "Korrelation zwischen Geburten, Frauen im gebärfähigen Alter un Störchen"@de, "Correlation between births, women of childbearing age and storks"@en ;
  schema:provider <https://www.wikidata.org/wiki/Q1622216>.

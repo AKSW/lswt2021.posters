@@ -3,7 +3,7 @@
 @prefix htwk: <http://htwk-leipzig.de/> .
 
 
-htwk:diebelt dct:title "Auswirkung von Computerspielen auf die Kriminalität von Kindern und Jugendlichen (2009 - 2019)"@de, "Impact of video games on child and teen crime"@en ;
+<htwk-diebelt> dct:title "Auswirkung von Computerspielen auf die Kriminalität von Kindern und Jugendlichen (2009 - 2019)"@de, "Impact of video games on child and teen crime"@en ;
  dct:creator "Diebelt" ;
  dct:description "Untersuchen der Auswirkungen von Computerspielen auf Gewalt und Kriminalität"@de, "Consideration of the impact of video games on crime and violence"@en ;
  schema:provider <https://www.wikidata.org/wiki/Q1622216>.

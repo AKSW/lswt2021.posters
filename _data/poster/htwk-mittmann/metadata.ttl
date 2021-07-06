@@ -3,7 +3,7 @@
 @prefix htwk: <http://htwk-leipzig.de/> .
 
 
-htwk:mittmann_fabian dct:title "Untersuchung wirtschaftlicher Entwicklungen weltweit"@de, "Investigation of economical developments worldwide"@en ;
+<htwk-mittmann> dct:title "Untersuchung wirtschaftlicher Entwicklungen weltweit"@de, "Investigation of economical developments worldwide"@en ;
  dct:creator "Mittmann", "Fabian" ;
  dct:description "Untersuchung des jährlichen Zusammenhangs zwischen Einwohnerzahl, Fläche, Bruttoinlandsprodukt und Inflationsrate in Staaten weltweit"@de, "Investigation of the annual context between population, area, gross domestic product and inflation rate in states all around the world"@en ;
  schema:provider <https://www.wikidata.org/wiki/Q1622216>.

@@ -2,7 +2,7 @@
 @prefix schema: <http://schema.org/> .
 @prefix htwk: <http://htwk-leipzig.de/> .
 
-htwk:gierth dct:title "Aktuelle Gefährdung der Heilpflanzen des Jahres zwischen 1990 und 2021"@de, "Current threat to the medicinal plants of the year between 1990 and 2021"@en ;
+<htwk-gierth> dct:title "Aktuelle Gefährdung der Heilpflanzen des Jahres zwischen 1990 und 2021"@de, "Current threat to the medicinal plants of the year between 1990 and 2021"@en ;
 dct:creator "Gierth" ;
 dct:description "Betrachtung der Gefährdung der Heilpflanzen des Jahres anhand der Einschätzung der Roten Liste gefährdeter Arten"@de, "Consideration of the threat to the medicinal plants of the year on the basis of the assessment of the Red List of endangered species"@en ;
 schema:provider <https://www.wikidata.org/wiki/Q1622216> .

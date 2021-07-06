@@ -3,7 +3,7 @@
 @prefix htwk: <http://htwk-leipzig.de/> .
 
 
-htwk:zetzsche dct:title "Einfluss der Corona-Pandemie auf Verkehrsunfälle"@de, "Influence of the Corona-Pandemie on traffic accidents"@en ;
+<htwk-zetzsche> dct:title "Einfluss der Corona-Pandemie auf Verkehrsunfälle"@de, "Influence of the Corona-Pandemie on traffic accidents"@en ;
 dct:creator "Zetzsche", "Marius" ;
 dct:description "Wie stark hat sich die Corona-Pandemie auf die Verkehrslage in Bezug auf Unfälle mit Personenschaden ausgewirkt."@de, "How much has the corona pandemic affected the traffic situation in terms of accidents with personal injury"@en ;
 schema:provider <https://www.wikidata.org/wiki/Q1622216>.

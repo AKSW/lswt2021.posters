@@ -1,10 +1,7 @@
-<resourceuri>"thb-schulz"
-
 @prefix dct: <http://purl.org/dc/terms/> .
-
 @prefix schema: <http://schema.org/> .
 
-<resourceuri> dct:title "Thesaurus-Ansatz für IT-Konzepte"@de, "Thesaurus approach for IT concepts"@en ;
+<thb-schulz> dct:title "Thesaurus-Ansatz für IT-Konzepte"@de, "Thesaurus approach for IT concepts"@en ;
      dct:creator "Schulz" ;
          dct:description "Kurze Einführung in das Thema Thesaurus mit anschließenderverknüpfung zu dem Thema IT-Konzepte"@de, "Short introduction to the topic of thesaurus followed by a link to the topic of IT concepts."@en ;
          schema:provider <https://www.wikidata.org/wiki/Q1391182>
