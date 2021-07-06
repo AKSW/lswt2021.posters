@@ -50,9 +50,20 @@
 <https://posters.lswt2021.aksw.org/25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
 <https://posters.lswt2021.aksw.org/25> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://posters.lswt2021.aksw.org/HTWK-Dorf> .
 <https://posters.lswt2021.aksw.org/25> <https://posters.lswt2021.aksw.org/number> "25"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://posters.lswt2021.aksw.org/26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://posters.lswt2021.aksw.org/26> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://posters.lswt2021.aksw.org/HTWK-Pohl> .
+<https://posters.lswt2021.aksw.org/26> <https://posters.lswt2021.aksw.org/number> "25"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://posters.lswt2021.aksw.org/27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://posters.lswt2021.aksw.org/27> <https://posters.lswt2021.aksw.org/number> "25"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://posters.lswt2021.aksw.org/28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://posters.lswt2021.aksw.org/28> <https://posters.lswt2021.aksw.org/number> "25"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://posters.lswt2021.aksw.org/29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://posters.lswt2021.aksw.org/29> <https://posters.lswt2021.aksw.org/number> "25"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://posters.lswt2021.aksw.org/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
 <https://posters.lswt2021.aksw.org/2> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://posters.lswt2021.aksw.org/hsa-BongartzDefee> .
 <https://posters.lswt2021.aksw.org/2> <https://posters.lswt2021.aksw.org/number> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://posters.lswt2021.aksw.org/30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://posters.lswt2021.aksw.org/30> <https://posters.lswt2021.aksw.org/number> "25"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://posters.lswt2021.aksw.org/3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
 <https://posters.lswt2021.aksw.org/3> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://posters.lswt2021.aksw.org/htwk-nordhaus> .
 <https://posters.lswt2021.aksw.org/3> <https://posters.lswt2021.aksw.org/number> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
@@ -81,6 +92,13 @@
 <https://posters.lswt2021.aksw.org/HTWK-Dorf> <http://purl.org/dc/terms/title> "Dependence of fine dust pollution in Leipzig on the local economy and public transport"@en .
 <https://posters.lswt2021.aksw.org/HTWK-Dorf> <http://schema.org/provider> <https://www.wikidata.org/wiki/Q1622216> .
 <https://posters.lswt2021.aksw.org/HTWK-Dorf> <https://posters.lswt2021.aksw.org/slug> "HTWK-Dorf" .
+<https://posters.lswt2021.aksw.org/HTWK-Pohl> <http://purl.org/dc/terms/creator> "Luca Pohl" .
+<https://posters.lswt2021.aksw.org/HTWK-Pohl> <http://purl.org/dc/terms/description> "Betrachtung ob die Europawahlergebnisse und das Durchschnittsalter der Bev\u00F6lkerung einen Einfluss auf den Bestand von Elektrofahrzeugen in Deutschland haben."@de .
+<https://posters.lswt2021.aksw.org/HTWK-Pohl> <http://purl.org/dc/terms/description> "Consideration of whether the European election results and the average age of the population have an influence on the number of electric vehicles in Germany."@en .
+<https://posters.lswt2021.aksw.org/HTWK-Pohl> <http://purl.org/dc/terms/title> "Europawahlergebnisse, Durchschnittsalter und Elektrofahrzeuge"@de .
+<https://posters.lswt2021.aksw.org/HTWK-Pohl> <http://purl.org/dc/terms/title> "European election results, average age and electric vehicles"@en .
+<https://posters.lswt2021.aksw.org/HTWK-Pohl> <http://schema.org/provider> <https://www.wikidata.org/wiki/Q1622216> .
+<https://posters.lswt2021.aksw.org/HTWK-Pohl> <https://posters.lswt2021.aksw.org/slug> "HTWK-Pohl" .
 <https://posters.lswt2021.aksw.org/hsa-BongartzDefee> <http://purl.org/dc/terms/creator> "Jonas Bongartz" .
 <https://posters.lswt2021.aksw.org/hsa-BongartzDefee> <http://purl.org/dc/terms/creator> "Marius Def\u00E8e" .
 <https://posters.lswt2021.aksw.org/hsa-BongartzDefee> <http://purl.org/dc/terms/description> "Mithilfe von Datens\u00E4tzen wollen wir es erm\u00F6glichen, dass Gitarrenspieler individuell aus einer Liste von Songs die Songsraussuchen k\u00F6nnen, die zum ihrem aktuellen Skilllevel passen und ihnen direkt Chord Sheets zur Verf\u00FCgung stellen."@de .
