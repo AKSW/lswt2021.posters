@@ -7,9 +7,11 @@ layout: page
 {% assign poster_l = poster | rdf_property: "posters:slug" | prepend: "img/" | append: "_l.png" %}
 {% assign poster_s = poster | rdf_property: "posters:slug" | prepend: "img/" | append: "_s.png" %}
 
-<h1>{{ poster | rdf_property: "dct:title" }}</h1>
+<h1>{{ poster | rdf_property: "dct:title", "de" }}</h1>
+<h1>{{ poster | rdf_property: "dct:title", "en" }}</h1>
 <p><em>{{ poster | rdf_property: "dct:creator" }}</em></p>
 
-<p>{{ poster | rdf_property: "dct:description" }}</p>
+<p>{{ poster | rdf_property: "dct:description", "de" }}</p>
+<p>{{ poster | rdf_property: "dct:description", "en" }}</p>
 
 <a href="{{ poster_l | relativize_url}}"><img src="{{ poster_s | relativize_url }}"></a>

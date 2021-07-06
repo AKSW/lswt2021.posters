@@ -1,0 +1,22 @@
+---
+layout: page
+---
+
+  <a href="{{ "/en" | relativize_url }}">English</a> |
+  <a href="{{ "/" | relativize_url }}">German</a>
+
+{% capture query %}
+select ?ptres ?poster ?number {
+  ?ptres a foaf:Document ;
+    rdfs:seeAlso ?poster ;
+    posters:number ?number .
+} order by ?number
+{% endcapture %}
+
+{% assign result = page.rdf | sparql_query: query %}
+
+<ul>
+{% for row in result %}
+<li><a href="{{ row.ptres.page_url | relativize_url }}"> #{{ row.number }} {{ row.poster | rdf_property: "dct:creator", nil, true | join: ", " }} “{{ row.poster | rdf_property: "dct:title", page.language }}”</a></li>
+{% endfor %}
+</ul>
