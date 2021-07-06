@@ -21,9 +21,9 @@ for dir in _data/poster/*; do
   i=$((i + 1))
   dirname=$(basename $dir)
   echo "<https://posters.lswt2021.aksw.org/$i> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> ." >> $EXPORT
+  echo "<https://posters.lswt2021.aksw.org/$i> <https://posters.lswt2021.aksw.org/number> \"$i\"^^<http://www.w3.org/2001/XMLSchema#integer> ." >> $EXPORT
   echo "<https://posters.lswt2021.aksw.org/$i> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://posters.lswt2021.aksw.org/$dirname> ." >> $EXPORT
   echo "<https://posters.lswt2021.aksw.org/$dirname> <https://posters.lswt2021.aksw.org/slug> \"$dirname\" ." >> $EXPORT
-  echo "<https://posters.lswt2021.aksw.org/$dirname> <https://posters.lswt2021.aksw.org/number> \"$i\"^^<http://www.w3.org/2001/XMLSchema#integer> ." >> $EXPORT
   ERROR=$( { rapper -i turtle -o ntriples $dir/$METADATA $BASE_IRI >> $EXPORT; } 2>&1 )
   LOG="${LOG}${ERROR}\n"
 done
