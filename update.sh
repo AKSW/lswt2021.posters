@@ -37,9 +37,9 @@ mkdir img
 
 for dir in _data/poster/*; do
   dirname=$(basename $dir)
-  ERROR=$( { pdftocairo -png -scale-to 1200 -singlefile $dir/${dirname}.pdf img/${dirname}_s; } 2>&1 )
+  ERROR=$( { pdftocairo -png -scale-to 1200 -singlefile $dir/poster.pdf img/${dirname}_s; } 2>&1 )
   LOG="${LOG}${ERROR}\n"
-  ERROR=$( { pdftocairo -png -scale-to 3000 -singlefile $dir/${dirname}.pdf img/${dirname}_l; } 2>&1 )
+  ERROR=$( { pdftocairo -png -scale-to 3000 -singlefile $dir/poster.pdf img/${dirname}_l; } 2>&1 )
   LOG="${LOG}${ERROR}\n"
 done
 

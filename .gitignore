@@ -4,3 +4,5 @@
 Gemfile.lock
 _site/
 img
+*.mp4
+__MACOSX

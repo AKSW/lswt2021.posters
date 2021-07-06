@@ -1,0 +1,8 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix schema: <http://schema.org/> .
+
+<thb-hu> dct:title "Wissensgraph-basierte Videoplattform eLectures@THB"@de, "Knowledge Graph based Video Platform eLectures@THB"@en ;
+    dct:creator "Wenxin Hu", "Lukas Teutenberg" ;
+        dct:description "Videovorlesungen, ein unverzichtbares Lerninstrument, spielen heutzutage eine sehr wichtige Rolle. eLectures@THB, eine wissensgraph-basierte Videoplattform, bietet deshalb eine Möglcihkeit, diese VideoVorlesungen in einer strukturierten Weise übergreifend auffindbar und zugänglich zu machen. Im Poster werden das Datenschema sowie die technische Architektur des entwickelten Prototyps erklärt."@de, 
+		"Video lectures, an indispensable learning tool, play a very important role these days. eLectures@THB, a knowledge graph-based video platform, provides a possibility to make video lectures findable and accessible in a structured manner. This poster explains the data schema and the technical architecture of the developed prototype."@en ;
+        schema:provider <https://www.wikidata.org/wiki/Q1391182> .

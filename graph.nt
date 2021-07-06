@@ -1,6 +1,21 @@
-<https://posters.lswt2021.aksw.org/ulei-arndt/> <http://purl.org/dc/terms/title> "Quit Diff"@de .
-<https://posters.lswt2021.aksw.org/ulei-arndt/> <http://purl.org/dc/terms/title> "Quit Diff"@en .
-<https://posters.lswt2021.aksw.org/ulei-arndt/> <http://purl.org/dc/terms/creator> "Natanael Arndt" .
-<https://posters.lswt2021.aksw.org/ulei-arndt/> <http://purl.org/dc/terms/description> "Kurzbescheribung des Posters \u2026 Quit Diff"@de .
-<https://posters.lswt2021.aksw.org/ulei-arndt/> <http://purl.org/dc/terms/description> "Description of the poster \u2026 Quit Diff"@en .
-<https://posters.lswt2021.aksw.org/ulei-arndt/> <http://schema.org/provider> <https://www.wikidata.org/wiki/Q154804> .
+
+<https://posters.lswt2021.aksw.org/1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://posters.lswt2021.aksw.org/1> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://posters.lswt2021.aksw.org/htwk-riechert> .
+<https://posters.lswt2021.aksw.org/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://posters.lswt2021.aksw.org/2> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://posters.lswt2021.aksw.org/ulei-arndt> .
+<https://posters.lswt2021.aksw.org/htwk-riechert> <http://purl.org/dc/terms/creator> "Thomas Richert" .
+<https://posters.lswt2021.aksw.org/htwk-riechert> <http://purl.org/dc/terms/description> "Description of the poster \u2026 Quit Diff"@en .
+<https://posters.lswt2021.aksw.org/htwk-riechert> <http://purl.org/dc/terms/description> "Kurzbescheribung des Posters \u2026 Quit Diff"@de .
+<https://posters.lswt2021.aksw.org/htwk-riechert> <http://purl.org/dc/terms/title> "Quit Diff"@de .
+<https://posters.lswt2021.aksw.org/htwk-riechert> <http://purl.org/dc/terms/title> "Quit Diff"@en .
+<https://posters.lswt2021.aksw.org/htwk-riechert> <http://schema.org/provider> <https://www.wikidata.org/wiki/Q154804> .
+<https://posters.lswt2021.aksw.org/htwk-riechert> <https://posters.lswt2021.aksw.org/number> "1" .
+<https://posters.lswt2021.aksw.org/htwk-riechert> <https://posters.lswt2021.aksw.org/slug> "htwk-riechert" .
+<https://posters.lswt2021.aksw.org/ulei-arndt> <http://purl.org/dc/terms/creator> "Natanael Arndt" .
+<https://posters.lswt2021.aksw.org/ulei-arndt> <http://purl.org/dc/terms/description> "Description of the poster \u2026 Quit Diff"@en .
+<https://posters.lswt2021.aksw.org/ulei-arndt> <http://purl.org/dc/terms/description> "Kurzbescheribung des Posters \u2026 Quit Diff"@de .
+<https://posters.lswt2021.aksw.org/ulei-arndt> <http://purl.org/dc/terms/title> "Quit Diff"@de .
+<https://posters.lswt2021.aksw.org/ulei-arndt> <http://purl.org/dc/terms/title> "Quit Diff"@en .
+<https://posters.lswt2021.aksw.org/ulei-arndt> <http://schema.org/provider> <https://www.wikidata.org/wiki/Q154804> .
+<https://posters.lswt2021.aksw.org/ulei-arndt> <https://posters.lswt2021.aksw.org/number> "2" .
+<https://posters.lswt2021.aksw.org/ulei-arndt> <https://posters.lswt2021.aksw.org/slug> "ulei-arndt" .

@@ -1,0 +1,8 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix schema: <http://schema.org/> .
+@prefix htwk: <http://htwk-leipzig.de/> .
+
+htwk:mothes dct:title "Zusammenhang zwischen Impfquote, Bildungsniveau und Parteienpräferenz"@de, "Correlation between vaccination ratio, education level, and party preference"@en ;
+ dct:creator "Sebastian Mothes";
+ dct:description "Die Impfquoten in den einzelnen Bundesländern Deutschlands weichen teilweise sehr stark voneinander ab. Können Zusammenhänge zwischen Impfbereitschaft, Bildungsniveaus und Parteipräferenzen in den einzelnen Bundesländern nachgewiesen werden?"@de, "The vaccination rates differ significantly in some of Germany's states. Can correlations between vaccination willingness, education levels, and party preferences in the individual German states be proven?"@en ;
+ schema:provider <https://www.wikidata.org/wiki/Q1622216>.

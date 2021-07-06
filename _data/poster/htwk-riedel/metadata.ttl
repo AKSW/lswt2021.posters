@@ -1,0 +1,9 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix schema: <http://schema.org/> .
+@prefix htwk: <http://htwk-leipzig.de/> .
+
+
+htwk:riedel dct:title "Mobilitätsveränderung und Corona-Inzidenz auf Landkreisebene"@de, "Change in mobility and corona incidence in German districts"@en ;
+ dct:creator "Riedel";
+ dct:description "Verändert die Corona-Pandemie im Frühjahr 2021 das Mobilitätsverhalten in deutschen Landkreisen gegenüber zum Frühjahr 2019?"@de, "Will the corona pandemic change mobility behavior in German districts in spring 2021 compared to spring 2019?"@en ;
+ schema:provider <https://www.wikidata.org/wiki/Q1622216>.

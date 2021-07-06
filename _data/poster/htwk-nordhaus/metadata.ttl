@@ -1,0 +1,10 @@
+<resourceuri> shall be according to the format "<hochschulskürzel>-<nachname(n)>"
+
+@prefix dct: <http://purl.org/dc/terms/> .
+
+@prefix schema: <http://schema.org/> .
+
+<resourceuri> dct:title "Zusammenhang zwischen der Anzahl der Testzentren, Anzahl der Corona-Fälle und Belegung von Intensivbetten in der Corona-Pandemie"@de, "Correlation between the number of testing centers, number of Corona cases, and occupancy of intensive care beds in the Corona pandemic"@en ;
+dct:creator "Max Nordhaus";
+dct:description "Zusammenhang zwischen der Anzahl der Testzentren, Anzahl der Corona-Fälle und Belegung von Intensivbetten in der Corona-Pandemie"@de, "Correlation between the number of testing centers, number of Corona cases, and occupancy of intensive care beds in the Corona pandemic"@en ;
+schema:provider <the wikidata url of your university/hoschule>

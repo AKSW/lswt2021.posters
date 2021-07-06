@@ -1,0 +1,8 @@
+@prefix dct: <https://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org> .
+@prefix htwk: <https://htwk-leipzig.de/> .
+
+htwk:kromlinger dct:title "Zusammenhang zwischen Alleen und Verkehrsunfällen in Leipzig"@de, "Correlation between boulevards and road accidents in Leipzig"@en ;
+    dct:creator "Kromlinger" ;
+    dct:description "Überprüfung, wie stark Bäume Verkehrsunfälle beeinflussen."@de, "Examination how trees affect road accidents."@en ;
+    schema:provider <https://www.wikidata.org/wiki/Q1622216> .

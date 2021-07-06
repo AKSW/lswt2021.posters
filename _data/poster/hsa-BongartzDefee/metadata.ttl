@@ -1,0 +1,8 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix schema: <https://schema.org/> .
+
+ <hsa-BongartzDefee> dct:title "Hör auf zu suchen, fang an zu üben!"@de, "Stop searching, start practicing!"@en .
+ <hsa-BongartzDefee> dct:creator "Jonas Bongartz", "Marius Defèe"  .
+ <hsa-BongartzDefee> dct:description "Mithilfe von Datensätzen wollen wir es ermöglichen, dass Gitarrenspieler individuell aus einer Liste von Songs die Songsraussuchen können, die zum ihrem aktuellen Skilllevel passen und ihnen direkt Chord Sheets zur Verfügung stellen."@de, 
+                 "With the help of datasets we want to allow users to search for songs, which they can play with their current skill-level and provide them with the corresponding chord sheets."@en  .
+ <hsa-BongartzDefee> schema:provider <http://www.wikidata.org/entity/Q1622074> .

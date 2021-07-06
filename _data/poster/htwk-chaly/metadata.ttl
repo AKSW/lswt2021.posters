@@ -1,0 +1,12 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix schema: <http://schema.org/> .
+@prefix htwk: <http://htwk-leipzig.de/> .
+
+
+htwk:chaly dct:title "Auswirkung der Corona-Pandemie auf Wirtschaft in Deutschland"@de, "Effects of the corona pandemic on the economy in Germany"@en ;
+dct:creator "Anton Chaly";
+dct:description "Das neuartige Coronavirus breitet sich derzeit weltweit rasant aus. Eine Infektion führt zu Symptomen wie Fieber, Husten und Atemproblemen. Welche wirtschaftspolitischen Folgen resultieren daraus? Grade in Bezug auf die deutsche Wirtschaft?"@de, "
+The novel coronavirus is currently spreading rapidly around the world. Infection leads to symptoms such as fever, cough, and difficulty breathing. What are the economic policy consequences of this? Especially in relation to the German economy?"@en ;
+schema:provider <https://www.wikidata.org/wiki/Q1622216>
+
+

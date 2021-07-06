@@ -1,0 +1,7 @@
+@prefix dct:  <http://purl.org/dc/terms/> .
+@prefix schema:  <http://schema.org/> .
+
+<hsa-wahmkow_wunsch> dct:title "Stréamy, die Abhilfe gegen dein Streaming-Chaos"@de, "Stréamy, the remedy against your streaming chaos"@en .
+<hsa-wahmkow_wunsch> dct:creator "Tina Wahmkow", "Jonas Wunsch"  .
+<hsa-wahmkow_wunsch> dct:description "Mit Stréamy kann man ganz einfach Auskunft darüber erhallten, auf welchen Streaming-Plattformen der gesuchte Film mit welchen Sprachen etc. verfügbar ist."@de, "With Stréamy, you can easily find out which streaming platforms the movie you are looking for is available on and in which language(s) it is provided."@en  .
+<hsa-wahmkow_wunsch> schema:provider <http://www.wikidata.org/entity/Q1622074> .
