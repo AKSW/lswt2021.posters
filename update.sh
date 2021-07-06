@@ -33,6 +33,8 @@ rm $EXPORT
 
 #echo $LOG
 
+mkdir img
+
 for dir in _data/poster/*; do
   dirname=$(basename $dir)
   ERROR=$( { pdftocairo -png -scale-to 1200 -singlefile $dir/${dirname}.pdf img/${dirname}_s; } 2>&1 )
