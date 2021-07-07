@@ -29,6 +29,7 @@
 <https://posters.lswt2021.aksw.org/26> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://posters.lswt2021.aksw.org/HTWK-Pohl> .
 <https://posters.lswt2021.aksw.org/27> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://posters.lswt2021.aksw.org/hsa-koenig> .
 <https://posters.lswt2021.aksw.org/28> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://posters.lswt2021.aksw.org/htwk-truschkewitz> .
+<https://posters.lswt2021.aksw.org/29> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://posters.lswt2021.aksw.org/hsa-wittig> .
 
 
 <https://posters.lswt2021.aksw.org/10> <https://posters.lswt2021.aksw.org/number> "10"^^<http://www.w3.org/2001/XMLSchema#integer> .

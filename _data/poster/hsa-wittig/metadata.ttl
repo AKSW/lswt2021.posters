@@ -1,0 +1,7 @@
+@prefix dct:  <http://purl.org/dc/terms/> .
+@prefix schema:  <http://schema.org/> .
+
+<hsa-wittig> dct:title "Studybot - ein Zauberstab zur Kreiierung eines Chatbots aus einer Ontologie."@de, "Studybot - A magic wand to create chatbots from ontologies."@en .
+<hsa-wittig> dct:creator "Annemarie Wittig"  .
+<hsa-wittig> dct:description "Ein Projekt zur automatischen Generierung eines Trainingssatzes von einem Datensatz für einen Chatbot."@de, "A project to automatically generate the trainingsdata for a chatbot from an ontology."@en  .
+<hsa-wittig> schema:provider <http://www.wikidata.org/entity/Q1622074> .
