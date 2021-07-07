@@ -1,0 +1,7 @@
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix schema: <http://schema.org/> .
+
+<hsa-koenig> dct:title "Professionelle Zocker und konventionelle Sportler: Wer ist erfolgreicher? Wer verdient am meisten?"@de, "Professional gamers and traditional sport athletes: Who performs best? Who earns the most?"@en .
+<hsa-koenig> dct:creator "Kevin König"  .
+<hsa-koenig> dct:description "Sinn dieses Projekts ist es, einen Datensatz zu erstellen, mit dem Sportler aus elektronischen und konventionellen Sportarten miteinander verglichen werden können."@de, "This project is about creating a dataset, with which athletes from electronic and conventional sports can be compared with one another."@en  .
+<hsa-koenig> schema:provider <http://www.wikidata.org/entity/Q1622074> .
