@@ -60,6 +60,7 @@
 <https://posters.lswt2021.aksw.org/28> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://posters.lswt2021.aksw.org/htwk-truschkewitz> .
 <https://posters.lswt2021.aksw.org/28> <https://posters.lswt2021.aksw.org/number> "28"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://posters.lswt2021.aksw.org/29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://posters.lswt2021.aksw.org/29> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://posters.lswt2021.aksw.org/hsa-wittig> .
 <https://posters.lswt2021.aksw.org/29> <https://posters.lswt2021.aksw.org/number> "29"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://posters.lswt2021.aksw.org/2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
 <https://posters.lswt2021.aksw.org/2> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://posters.lswt2021.aksw.org/hsa-BongartzDefee> .
@@ -124,6 +125,13 @@
 <https://posters.lswt2021.aksw.org/hsa-wahmkow_wunsch> <http://purl.org/dc/terms/title> "Str\u00E9amy, the remedy against your streaming chaos"@en .
 <https://posters.lswt2021.aksw.org/hsa-wahmkow_wunsch> <http://schema.org/provider> <http://www.wikidata.org/entity/Q1622074> .
 <https://posters.lswt2021.aksw.org/hsa-wahmkow_wunsch> <https://posters.lswt2021.aksw.org/slug> "hsa-wahmkow_wunsch" .
+<https://posters.lswt2021.aksw.org/hsa-wittig> <http://purl.org/dc/terms/creator> "Annemarie Wittig" .
+<https://posters.lswt2021.aksw.org/hsa-wittig> <http://purl.org/dc/terms/description> "A project to automatically generate the trainingsdata for a chatbot from an ontology."@en .
+<https://posters.lswt2021.aksw.org/hsa-wittig> <http://purl.org/dc/terms/description> "Ein Projekt zur automatischen Generierung eines Trainingssatzes von einem Datensatz f\u00FCr einen Chatbot."@de .
+<https://posters.lswt2021.aksw.org/hsa-wittig> <http://purl.org/dc/terms/title> "Studybot - A magic wand to create chatbots from ontologies."@en .
+<https://posters.lswt2021.aksw.org/hsa-wittig> <http://purl.org/dc/terms/title> "Studybot - ein Zauberstab zur Kreiierung eines Chatbots aus einer Ontologie."@de .
+<https://posters.lswt2021.aksw.org/hsa-wittig> <http://schema.org/provider> <http://www.wikidata.org/entity/Q1622074> .
+<https://posters.lswt2021.aksw.org/hsa-wittig> <https://posters.lswt2021.aksw.org/slug> "hsa-wittig" .
 <https://posters.lswt2021.aksw.org/htwk-Muthmann> <http://purl.org/dc/terms/creator> "Felix Muthmann" .
 <https://posters.lswt2021.aksw.org/htwk-Muthmann> <http://purl.org/dc/terms/description> "Betrachtung des Zusammenhangs der Anzahl erzielter Punkte in NFL Spielen, den Zuschauerzahlen je Spiel und dem Wetter auf Basis des Austragungsorts und des Datums"@de .
 <https://posters.lswt2021.aksw.org/htwk-Muthmann> <http://purl.org/dc/terms/description> "Consideration of the relationship between the number of points scored in NFL matches, the number of spectators per match and the weather on the basis of the match location and the date"@en .
