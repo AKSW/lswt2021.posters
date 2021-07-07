@@ -54,8 +54,10 @@
 <https://posters.lswt2021.aksw.org/26> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://posters.lswt2021.aksw.org/HTWK-Pohl> .
 <https://posters.lswt2021.aksw.org/26> <https://posters.lswt2021.aksw.org/number> "26"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://posters.lswt2021.aksw.org/27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://posters.lswt2021.aksw.org/27> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://posters.lswt2021.aksw.org/hsa-koenig> .
 <https://posters.lswt2021.aksw.org/27> <https://posters.lswt2021.aksw.org/number> "27"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://posters.lswt2021.aksw.org/28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
+<https://posters.lswt2021.aksw.org/28> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://posters.lswt2021.aksw.org/htwk-truschkewitz> .
 <https://posters.lswt2021.aksw.org/28> <https://posters.lswt2021.aksw.org/number> "28"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <https://posters.lswt2021.aksw.org/29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://xmlns.com/foaf/0.1/Document> .
 <https://posters.lswt2021.aksw.org/29> <https://posters.lswt2021.aksw.org/number> "29"^^<http://www.w3.org/2001/XMLSchema#integer> .
@@ -107,6 +109,13 @@
 <https://posters.lswt2021.aksw.org/hsa-BongartzDefee> <http://purl.org/dc/terms/title> "Stop searching, start practicing!"@en .
 <https://posters.lswt2021.aksw.org/hsa-BongartzDefee> <https://posters.lswt2021.aksw.org/slug> "hsa-BongartzDefee" .
 <https://posters.lswt2021.aksw.org/hsa-BongartzDefee> <https://schema.org/provider> <http://www.wikidata.org/entity/Q1622074> .
+<https://posters.lswt2021.aksw.org/hsa-koenig> <http://purl.org/dc/terms/creator> "Kevin K\u00F6nig" .
+<https://posters.lswt2021.aksw.org/hsa-koenig> <http://purl.org/dc/terms/description> "Sinn dieses Projekts ist es, einen Datensatz zu erstellen, mit dem Sportler aus elektronischen und konventionellen Sportarten miteinander verglichen werden k\u00F6nnen."@de .
+<https://posters.lswt2021.aksw.org/hsa-koenig> <http://purl.org/dc/terms/description> "This project is about creating a dataset, with which athletes from electronic and conventional sports can be compared with one another."@en .
+<https://posters.lswt2021.aksw.org/hsa-koenig> <http://purl.org/dc/terms/title> "Professional gamers and traditional sport athletes: Who performs best? Who earns the most?"@en .
+<https://posters.lswt2021.aksw.org/hsa-koenig> <http://purl.org/dc/terms/title> "Professionelle Zocker und konventionelle Sportler: Wer ist erfolgreicher? Wer verdient am meisten?"@de .
+<https://posters.lswt2021.aksw.org/hsa-koenig> <http://schema.org/provider> <http://www.wikidata.org/entity/Q1622074> .
+<https://posters.lswt2021.aksw.org/hsa-koenig> <https://posters.lswt2021.aksw.org/slug> "hsa-koenig" .
 <https://posters.lswt2021.aksw.org/hsa-wahmkow_wunsch> <http://purl.org/dc/terms/creator> "Jonas Wunsch" .
 <https://posters.lswt2021.aksw.org/hsa-wahmkow_wunsch> <http://purl.org/dc/terms/creator> "Tina Wahmkow" .
 <https://posters.lswt2021.aksw.org/hsa-wahmkow_wunsch> <http://purl.org/dc/terms/description> "Mit Str\u00E9amy kann man ganz einfach Auskunft dar\u00FCber erhallten, auf welchen Streaming-Plattformen der gesuchte Film mit welchen Sprachen etc. verf\u00FCgbar ist."@de .
@@ -237,6 +246,13 @@
 <https://posters.lswt2021.aksw.org/htwk-theml> <http://purl.org/dc/terms/title> "Influence of the coronavirus pandemic on the number of traffic accidents in Germany"@en .
 <https://posters.lswt2021.aksw.org/htwk-theml> <http://schema.org/provider> <https://www.wikidata.org/wiki/Q1622216> .
 <https://posters.lswt2021.aksw.org/htwk-theml> <https://posters.lswt2021.aksw.org/slug> "htwk-theml" .
+<https://posters.lswt2021.aksw.org/htwk-truschkewitz> <http://purl.org/dc/terms/creator> "Tommy Truschkewitz" .
+<https://posters.lswt2021.aksw.org/htwk-truschkewitz> <http://purl.org/dc/terms/description> "Aktuelle Thumbnails mit dem Hashtag #painting werden in unregelm\u00E4\u00DFigen Abst\u00E4nden zuf\u00E4llig von Instagram heruntergeladen, tempor\u00E4r zwischengespeichert und den EU-Gro\u00DFst\u00E4dten, falls m\u00F6glich, mitihlfe der Hashtags oder Ortsangabe zugeordnet. Aus den Bildern werden in einem Normalisierungsprozess iterativ f\u00FCnf dominante Farben pro Bild ermittelt ermittelt und diese der jeweiligen Stadt zugeordnet. Die Farbschemata k\u00F6nnen dann mit der Lebensqualit\u00E4t der Stadt in Verbindung gebracht werden. Es kann nun untersucht werden ob und welche Korrelationen sich erkennen lassen."@de .
+<https://posters.lswt2021.aksw.org/htwk-truschkewitz> <http://purl.org/dc/terms/description> "Current thumbnails with the hashtag #painting are randomly downloaded, temporarly cached from Instagram at irregular intervals and assigned to major EU cities,if possible by tag or location. From the images, five dominant colors are iteratively determined per image in a normalization process and this is assigned to the respective city. The color schemes can then be related to the city\u2018s quality of life. It can now be examined whether and which correlations can be identified."@en .
+<https://posters.lswt2021.aksw.org/htwk-truschkewitz> <http://purl.org/dc/terms/title> "Artistic Mood Map - Correlations between dominant colors in paintings and quality of life in EU cities"@en .
+<https://posters.lswt2021.aksw.org/htwk-truschkewitz> <http://purl.org/dc/terms/title> "Artistic Mood Map - Zusammenhang zwischen den dominierenden Farben in Malereien und der Lebensqualit\u00E4t von St\u00E4dten in der EU"@de .
+<https://posters.lswt2021.aksw.org/htwk-truschkewitz> <http://schema.org/provider> <https://www.wikidata.org/wiki/Q1622216> .
+<https://posters.lswt2021.aksw.org/htwk-truschkewitz> <https://posters.lswt2021.aksw.org/slug> "htwk-truschkewitz" .
 <https://posters.lswt2021.aksw.org/htwk-zetzsche> <http://purl.org/dc/terms/creator> "Marius" .
 <https://posters.lswt2021.aksw.org/htwk-zetzsche> <http://purl.org/dc/terms/creator> "Zetzsche" .
 <https://posters.lswt2021.aksw.org/htwk-zetzsche> <http://purl.org/dc/terms/description> "How much has the corona pandemic affected the traffic situation in terms of accidents with personal injury"@en .
